@@ -51,6 +51,10 @@
   "en": "Add the LastPass extension now",
   "zh": "立即新增 LastPass 擴充功能"
  },
+ "+FKcac": {
+  "en": "Start & explore",
+  "zh": "開始並探索"
+ },
  "+GZww3": {
   "en": "Account linking",
   "zh": "帳戶連結"
@@ -130,6 +134,10 @@
  "//QbmX": {
   "en": "Looking good. With a little attention you’ll be a security star!",
   "zh": "表現不錯。再多注意一點，您就能成為安全高手！"
+ },
+ "/2N0Lw": {
+  "en": "SSH keys",
+  "zh": "SSH 金鑰"
  },
  "/4gGIX": {
   "en": "Copy to clipboard",
@@ -314,6 +322,10 @@
  "/vyxWn": {
   "en": "Drag your exported Dashlane password file here",
   "zh": "將匯出的 Dashlane 密碼檔拖曳到這裡"
+ },
+ "/yg9l8": {
+  "en": "Attend training",
+  "zh": "參加訓練課程"
  },
  "/zxigt": {
   "en": "Add the extension",
@@ -814,6 +826,10 @@
   "en": "Cannot remove benefit. Try again!",
   "zh": "無法移除福利，請再試一次！"
  },
+ "4Jvw4q": {
+  "en": "Servers",
+  "zh": "伺服器"
+ },
  "4Le0c0": {
   "en": "Log in with a different account",
   "zh": "使用其他帳戶登入"
@@ -1114,6 +1130,10 @@
   "en": "Start typing...",
   "zh": "開始輸入..."
  },
+ "6SIWKr": {
+  "en": "Email accounts",
+  "zh": "電子郵件帳戶"
+ },
  "6Shola": {
   "en": [
    "We’ll ignore your password for ",
@@ -1313,6 +1333,10 @@
  "7kOrDP": {
   "en": "Copy policy number",
   "zh": "複製保單號碼"
+ },
+ "7maTh7": {
+  "en": "Health insurance policies",
+  "zh": "健康保險"
  },
  "7poIVs": {
   "en": "Enter your master password to log in to your LastPass personal account.",
@@ -1778,6 +1802,10 @@
  "Access saved credentials to manage, fill in, or copy the username and password.": {
   "en": "Access saved credentials to manage, fill in, or copy the username and password.",
   "zh": "存取已儲存的登入資訊，以管理、填入或複製使用者名稱和密碼。"
+ },
+ "AdsAQx": {
+  "en": "Social security numbers",
+  "zh": "社會安全號碼"
  },
  "AeXO77": {
   "en": "Account",
@@ -2646,6 +2674,10 @@
   "en": "Show username history",
   "zh": "顯示使用者名稱記錄"
  },
+ "H4dJpJ": {
+  "en": "Cloud apps",
+  "zh": "雲端應用程式"
+ },
  "H5J3jt": {
   "en": "Submit verification code",
   "zh": "送出驗證碼"
@@ -2657,6 +2689,10 @@
  "HF6C2L": {
   "en": "Phone Number",
   "zh": "電話號碼"
+ },
+ "HHxq5y": {
+  "en": "Memberships",
+  "zh": "會員資格"
  },
  "HMigKt": {
   "en": "Customize...",
@@ -3000,9 +3036,17 @@
   "en": "Your organization uses a LastPass policy to control use of this feature.",
   "zh": "您的組織使用 LastPass 政策控管此功能。"
  },
+ "K5Dgu/": {
+  "en": "Databases",
+  "zh": "資料庫"
+ },
  "K5fIXF": {
   "en": "Password suggestion",
   "zh": "建議的密碼"
+ },
+ "K5mvc9": {
+  "en": "VPN",
+  "zh": "VPN"
  },
  "K64imN": {
   "en": "Go to Security Dashboard",
@@ -3714,6 +3758,10 @@
   "en": "Website",
   "zh": "網站"
  },
+ "OpVZOV": {
+  "en": "Instant messenger accounts",
+  "zh": "即時通訊帳戶"
+ },
  "Opcb/j": {
   "en": "Your organization doesn't allow you to activate Families for this account.",
   "zh": "您的組織不允許您為此帳戶啟用家庭方案。"
@@ -3772,7 +3820,7 @@
  },
  "PBxg/E": {
   "en": "Not now",
-  "zh": "現在不要"
+  "zh": "暫時不要"
  },
  "PCIlOO": {
   "en": "Add member",
@@ -3813,6 +3861,10 @@
    ],
    " 驗證您的地址。"
   ]
+ },
+ "PWZsVo": {
+  "en": "Try the new vault",
+  "zh": "試用新版保管庫"
  },
  "PXur9O": {
   "en": "These sites have passwords that are unsafe because they are weak, reused on multiple sites, missing, or old.",
@@ -4229,6 +4281,10 @@
   "en": "We've retired Grid multifactor authentication",
   "zh": "我們已停用方格卡多重要素驗證"
  },
+ "RfyGOV": {
+  "en": "Account management",
+  "zh": "帳戶管理"
+ },
  "RgdFWB": {
   "en": "Request verification link",
   "zh": "要求驗證連結"
@@ -4315,6 +4371,10 @@
   "en": "Log in automatically",
   "zh": "自動登入"
  },
+ "S6X+J1": {
+  "en": "Insurance policies",
+  "zh": "保險"
+ },
  "SDM9tk": {
   "en": "Disable alert for this site",
   "zh": "停用此網站的警示"
@@ -4326,6 +4386,10 @@
  "SFReEs": {
   "en": "$27 billed annually",
   "zh": "每年收費 $27"
+ },
+ "SGpBQH": {
+  "en": "Support center",
+  "zh": "支援中心"
  },
  "SJxkq2": {
   "en": "You’re on the road to passwordless login everywhere",
@@ -4426,6 +4490,10 @@
  "TNmI3/": {
   "en": "Connection error",
   "zh": "連線錯誤"
+ },
+ "TPGXzM": {
+  "en": "Passports",
+  "zh": "護照"
  },
  "TRZz9k": {
   "en": "Address added to your vault",
@@ -4576,6 +4644,10 @@
  "UVFqde": {
   "en": "Prohibited items detected",
   "zh": "偵測到禁止的項目"
+ },
+ "UZKLEA": {
+  "en": "Passkeys",
+  "zh": "通行金鑰"
  },
  "UaU4DK": {
   "en": "URL is missing",
@@ -4756,6 +4828,10 @@
  "W0Wcgi": {
   "en": "Let’s activate LastPass Families. For free.",
   "zh": "來啟用 LastPass 家庭方案吧。完全免費。"
+ },
+ "W1cfQR": {
+  "en": "It's in beta, so you're one of the first to try it. Switch here anytime, and go back to the classic vault whenever you want.",
+  "zh": "目前為測試版，您是最早試用的使用者之一。可隨時在這裡切換，想回到經典版保管庫時也能隨時切換回去。"
  },
  "W7/ueV": {
   "en": "Delete shared folder?",
@@ -5088,6 +5164,10 @@
  "YAPbhT": {
   "en": "By clicking “Start Monitoring”, you agree to share your monitored usernames or addresses with Enzoic to help protect your credentials.",
   "zh": "按下「開始監控」即表示您同意將受監控的使用者名稱或地址提供給 Enzoic，以協助保護您的登入資訊。"
+ },
+ "YBt9YP": {
+  "en": "Beta",
+  "zh": "測試版"
  },
  "YG/+ht": {
   "en": "You can switch your device type <0>2 more times</0> to find the right option for you. <1>Upgrade to Families or Premium</1> for unlimited access.",
@@ -5630,6 +5710,10 @@
   "en": "Pair your authenticator app",
   "zh": "配對您的驗證器 App"
  },
+ "c3XJ18": {
+  "en": "Help",
+  "zh": "說明"
+ },
  "c7QZzu": {
   "en": "Your organization has enabled a policy preventing you from claiming Families as a benefit in the future.",
   "zh": "您的組織已啟用政策，禁止您日後領取家庭方案福利。"
@@ -5743,6 +5827,10 @@
  "cnTchK": {
   "en": "I've downloaded an app",
   "zh": "我已下載 App"
+ },
+ "cnYK2x": {
+  "en": "<0>Terms of service</0> apply.",
+  "zh": "適用<0>服務條款</0>。"
  },
  "cpe6W5": {
   "en": "If you're using LastPass on other devices, be prepared to look for a verification email from LastPass next time you log in.",
@@ -6122,6 +6210,10 @@
   "en": "You didn’t even need to log in. LastPass saved & filled your password for you. From now on, you’ll never have to type this login info again.",
   "zh": "您甚至不需要登入。LastPass 已為您儲存並填入密碼。從現在起，您再也不必輸入這組登入資訊。"
  },
+ "fL7WXr": {
+  "en": "Applications",
+  "zh": "應用程式"
+ },
  "fSvCqi": {
   "en": "Log in to this site",
   "zh": "登入此網站"
@@ -6485,6 +6577,10 @@
   "en": "Drag your exported Explorer password file here",
   "zh": "將匯出的 Explorer 密碼檔拖曳到這裡"
  },
+ "iZGYwQ": {
+  "en": "Desktop app settings",
+  "zh": "桌面應用程式設定"
+ },
  "ifRl1K": {
   "en": "What next?",
   "zh": "接下來呢？"
@@ -6774,6 +6870,10 @@
  "kd81+M": {
   "en": "Try Premium FREE for 30 days",
   "zh": "免費試用進階版 30 天"
+ },
+ "kehlpY": {
+  "en": "Log out and quit",
+  "zh": "登出並結束"
  },
  "kf83Ld": {
   "en": "Something went wrong.",
@@ -7331,6 +7431,10 @@
   "en": "Saving info...",
   "zh": "正在儲存資訊..."
  },
+ "p6NueD": {
+  "en": "NEW",
+  "zh": "新"
+ },
  "p7+lKt": {
   "en": "<0>Upgrade to Families or Premium</0> for unlimited access across all devices, mobile and computer alike.",
   "zh": "<0>升級至家庭方案或進階版</0>，在所有裝置上不限次數存取，手機和電腦都適用。"
@@ -7354,6 +7458,10 @@
  "pN185R": {
   "en": "Old",
   "zh": "過舊"
+ },
+ "pOWba6": {
+  "en": "Switch to new vault",
+  "zh": "切換到新版保管庫"
  },
  "pWGLPY": {
   "en": [
@@ -7438,6 +7546,10 @@
  "pjqoxG": {
   "en": "You have many weak or reused passwords in your vault. Change these passwords to protect yourself from hackers.",
   "zh": "您的保管庫中有許多強度不足或重複使用的密碼。請變更這些密碼，以防範駭客。"
+ },
+ "pnsfEN": {
+  "en": "Get early access to the new vault",
+  "zh": "搶先體驗新版保管庫"
  },
  "pqrTHu": {
   "en": [
@@ -7567,6 +7679,10 @@
   "en": "This number helps the support team identify this item.",
   "zh": "此編號可協助支援團隊識別此項目。"
  },
+ "qciriB": {
+  "en": "Driver's licenses",
+  "zh": "駕照"
+ },
  "qdr9tk": {
   "en": "Dark web alert",
   "zh": "暗網警示"
@@ -7578,6 +7694,10 @@
  "qh3tmz": {
   "en": "Go to any of these and select “Forgot master password?” on the LastPass login page.",
   "zh": "前往以上任一處，在 LastPass 登入頁面選擇「忘記主密碼？」。"
+ },
+ "qkEDpZ": {
+  "en": "Open user menu",
+  "zh": "開啟使用者選單"
  },
  "qnLTak": {
   "en": "Go Families",
@@ -7659,6 +7779,10 @@
   "en": "Upgrade to find out",
   "zh": "升級以查看結果"
  },
+ "rTBc6A": {
+  "en": "Collapse navigation sidebar",
+  "zh": "收合導覽側邊欄"
+ },
  "rTwgPH": {
   "en": "Last month",
   "zh": "上個月"
@@ -7724,6 +7848,10 @@
     }
    ]
   ]
+ },
+ "rcw/Tz": {
+  "en": "Software licenses",
+  "zh": "軟體授權"
  },
  "rePZbb": {
   "en": "You’re verified, but automatic recovery isn’t available in this browser.",
@@ -7808,6 +7936,10 @@
  "sVzeP6": {
   "en": "Check your phone and get LastPass Authenticator",
   "zh": "請查看手機並取得 LastPass Authenticator"
+ },
+ "sX3jQP": {
+  "en": "Sharing center",
+  "zh": "共用中心"
  },
  "sZJ3G8": {
   "en": "We couldn’t load your monitored accounts.",
@@ -8089,6 +8221,10 @@
   "en": "Already a Families member",
   "zh": "已是家庭方案成員"
  },
+ "ub8C91": {
+  "en": "Families",
+  "zh": "家庭方案"
+ },
  "uc5qh7": {
   "en": "Add items in your mobile application or computer browser extension to use them in Oculus.",
   "zh": "請在行動 App 或電腦瀏覽器擴充功能中新增項目，才能在 Oculus 中使用。"
@@ -8325,6 +8461,10 @@
    " 個電子郵件地址，以逗號分隔"
   ]
  },
+ "w83v4O": {
+  "en": "Custom items",
+  "zh": "自訂項目"
+ },
  "w9HSUc": {
   "en": "Open Security Dashboard",
   "zh": "開啟安全性儀表板"
@@ -8348,6 +8488,10 @@
  "wbjIIW": {
   "en": "With LastPass, you control your passkey experience.",
   "zh": "使用 LastPass，由您掌控通行金鑰體驗。"
+ },
+ "wcGeDE": {
+  "en": "Bank accounts",
+  "zh": "銀行帳戶"
  },
  "wckWOP": {
   "en": "Manage",
@@ -8499,7 +8643,7 @@
  },
  "xkuKkh": {
   "en": "Account benefits",
-  "zh": "帳戶福利"
+  "zh": "帳戶權益"
  },
  "xlkeZk": {
   "en": "Click<0> Options </0>(Windows) or<1> Preferences </1>(Mac).",
@@ -8550,6 +8694,10 @@
  "xzC8Hn": {
   "en": "Multifactor Authentication",
   "zh": "多重要素驗證"
+ },
+ "y0ahfh": {
+  "en": "Wi-Fi passwords",
+  "zh": "Wi-Fi 密碼"
  },
  "y1jadv": {
   "en": "Not Claimed",
