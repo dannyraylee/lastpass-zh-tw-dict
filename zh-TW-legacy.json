@@ -1,0 +1,2630 @@
+{
+ "%s reported a problem during login.": {
+  "en": "%s reported a problem during login.",
+  "zh": "%s 回報登入時發生問題。"
+ },
+ "A field with this name already exists.": {
+  "en": "There's already a field with this name.",
+  "zh": "已有同名的欄位。"
+ },
+ "Accept": {
+  "en": "Accept",
+  "zh": "接受"
+ },
+ "Accepted": {
+  "en": "Accepted",
+  "zh": "已接受"
+ },
+ "Access denied.": {
+  "en": "Access denied.",
+  "zh": "拒絕存取。"
+ },
+ "Account": {
+  "en": "Account",
+  "zh": "帳戶"
+ },
+ "Account Number": {
+  "en": "Account Number",
+  "zh": "帳號"
+ },
+ "Account Type": {
+  "en": "Account Type",
+  "zh": "帳戶類型"
+ },
+ "Action": {
+  "en": "Action",
+  "zh": "動作"
+ },
+ "Activate": {
+  "en": "Activate",
+  "zh": "啟用"
+ },
+ "Add": {
+  "en": "Add",
+  "zh": "新增"
+ },
+ "Add %s": {
+  "en": "Add %s",
+  "zh": "新增%s"
+ },
+ "Add Address": {
+  "en": "Add address",
+  "zh": "新增地址"
+ },
+ "Add Form Field": {
+  "en": "Add Form Field",
+  "zh": "新增表單欄位"
+ },
+ "Add Item": {
+  "en": "Add Item",
+  "zh": "新增項目"
+ },
+ "Add Note": {
+  "en": "Add Note",
+  "zh": "新增附註"
+ },
+ "Add Password": {
+  "en": "Add password",
+  "zh": "新增密碼"
+ },
+ "Add Site": {
+  "en": "Add Site",
+  "zh": "新增網站"
+ },
+ "Add Site to Favorites": {
+  "en": "Add to Favorites",
+  "zh": "加入我的最愛"
+ },
+ "Add site": {
+  "en": "Add site",
+  "zh": "新增網站"
+ },
+ "Add to LastPass?": {
+  "en": "Add to LastPass?",
+  "zh": "要新增至 LastPass 嗎？"
+ },
+ "Add your first password": {
+  "en": "Add your first password",
+  "zh": "新增第一組密碼"
+ },
+ "Address": {
+  "en": "Address",
+  "zh": "地址"
+ },
+ "Address 1": {
+  "en": "Address 1",
+  "zh": "地址 1"
+ },
+ "Address 2": {
+  "en": "Address 2",
+  "zh": "地址 2"
+ },
+ "Address 3": {
+  "en": "Address 3",
+  "zh": "地址 3"
+ },
+ "Admin Console": {
+  "en": "Admin Console",
+  "zh": "管理主控台"
+ },
+ "Advanced": {
+  "en": "Advanced",
+  "zh": "進階"
+ },
+ "Agent Name": {
+  "en": "Agent Name",
+  "zh": "業務員姓名"
+ },
+ "Agent Phone": {
+  "en": "Agent Phone",
+  "zh": "業務員電話"
+ },
+ "Alabama": {
+  "en": "Alabama",
+  "zh": "阿拉巴馬州"
+ },
+ "Alaska": {
+  "en": "Alaska",
+  "zh": "阿拉斯加州"
+ },
+ "Alberta": {
+  "en": "Alberta",
+  "zh": "亞伯達省"
+ },
+ "Alerts": {
+  "en": "Alerts",
+  "zh": "警示"
+ },
+ "Alias": {
+  "en": "Alias",
+  "zh": "別名"
+ },
+ "All Items": {
+  "en": "All Items",
+  "zh": "所有項目"
+ },
+ "American Samoa": {
+  "en": "American Samoa",
+  "zh": "美屬薩摩亞"
+ },
+ "Andorra": {
+  "en": "Andorra",
+  "zh": "安道爾"
+ },
+ "Android": {
+  "en": "Android",
+  "zh": "Android"
+ },
+ "Angola": {
+  "en": "Angola",
+  "zh": "安哥拉"
+ },
+ "Anguilla": {
+  "en": "Anguilla",
+  "zh": "安吉拉"
+ },
+ "Antigua and Barbuda": {
+  "en": "Antigua and Barbuda",
+  "zh": "安地卡及巴布達"
+ },
+ "Application": {
+  "en": "Application",
+  "zh": "應用程式"
+ },
+ "April": {
+  "en": "April",
+  "zh": "4 月"
+ },
+ "Archives": {
+  "en": "Archives",
+  "zh": "封存"
+ },
+ "Are you sure you want to delete field %s?": {
+  "en": "Delete field %s?",
+  "zh": "要刪除欄位 %s 嗎？"
+ },
+ "Are you sure you want to enable autofill? Enabling autofill increases the risk of exposing a site's password if that site is compromised.": {
+  "en": "Increase risk by automatically filling login information to this site? Enabling autofill increases the risk of exposing a site's password if that site is compromised.",
+  "zh": "要自動填入此網站的登入資訊並提高風險嗎？啟用自動填入後，若該網站遭入侵，密碼外洩的風險會提高。"
+ },
+ "Are you sure?": {
+  "en": "Are you sure?",
+  "zh": "確定嗎？"
+ },
+ "Argentina": {
+  "en": "Argentina",
+  "zh": "阿根廷"
+ },
+ "Arguments": {
+  "en": "Arguments",
+  "zh": "引數"
+ },
+ "Arizona": {
+  "en": "Arizona",
+  "zh": "亞利桑那州"
+ },
+ "Arkansas": {
+  "en": "Arkansas",
+  "zh": "阿肯色州"
+ },
+ "Armed Forces Americas": {
+  "en": "Armed Forces Americas",
+  "zh": "美軍美洲地區"
+ },
+ "Armed Forces Pacific": {
+  "en": "Armed Forces Pacific",
+  "zh": "美軍太平洋地區"
+ },
+ "Arts": {
+  "en": "Arts",
+  "zh": "藝術"
+ },
+ "Aruba": {
+  "en": "Aruba",
+  "zh": "阿魯巴"
+ },
+ "August": {
+  "en": "August",
+  "zh": "8 月"
+ },
+ "Australia": {
+  "en": "Australia",
+  "zh": "澳洲"
+ },
+ "Authenticate": {
+  "en": "Authenticate",
+  "zh": "驗證"
+ },
+ "Authentication": {
+  "en": "Authentication",
+  "zh": "驗證"
+ },
+ "AutoLogin": {
+  "en": "Autologin",
+  "zh": "自動登入"
+ },
+ "Autofill": {
+  "en": "Autofill",
+  "zh": "自動填入"
+ },
+ "Available": {
+  "en": "Available",
+  "zh": "可用"
+ },
+ "Azure AD": {
+  "en": "Azure AD",
+  "zh": "Azure AD"
+ },
+ "Back": {
+  "en": "Back",
+  "zh": "返回"
+ },
+ "Bahamas": {
+  "en": "Bahamas",
+  "zh": "巴哈馬"
+ },
+ "Bank Account": {
+  "en": "Bank Account",
+  "zh": "銀行帳戶"
+ },
+ "Bank Name": {
+  "en": "Bank Name",
+  "zh": "銀行名稱"
+ },
+ "Barbados": {
+  "en": "Barbados",
+  "zh": "巴貝多"
+ },
+ "Belize": {
+  "en": "Belize",
+  "zh": "貝里斯"
+ },
+ "Bermuda": {
+  "en": "Bermuda",
+  "zh": "百慕達"
+ },
+ "Beta": {
+  "en": "Beta",
+  "zh": "Beta"
+ },
+ "Birthday": {
+  "en": "Birthday",
+  "zh": "生日"
+ },
+ "Bit Strength": {
+  "en": "Bit Strength",
+  "zh": "位元強度"
+ },
+ "Bolivia": {
+  "en": "Bolivia",
+  "zh": "玻利維亞"
+ },
+ "Botswana": {
+  "en": "Botswana",
+  "zh": "波札那"
+ },
+ "Branch Address": {
+  "en": "Branch Address",
+  "zh": "分行地址"
+ },
+ "Branch Phone": {
+  "en": "Branch Phone",
+  "zh": "分行電話"
+ },
+ "British Columbia": {
+  "en": "British Columbia",
+  "zh": "英屬哥倫比亞省"
+ },
+ "British Indian Ocean Territory": {
+  "en": "British Indian Ocean Territory",
+  "zh": "英屬印度洋領地"
+ },
+ "Burkina Faso": {
+  "en": "Burkina Faso",
+  "zh": "布吉納法索"
+ },
+ "Business": {
+  "en": "Business",
+  "zh": "商務"
+ },
+ "CANCEL": {
+  "en": "Cancel",
+  "zh": "取消"
+ },
+ "CANCELLED": {
+  "en": "CANCELLED",
+  "zh": "已取消"
+ },
+ "California": {
+  "en": "California",
+  "zh": "加州"
+ },
+ "Canada": {
+  "en": "Canada",
+  "zh": "加拿大"
+ },
+ "Cancel": {
+  "en": "Cancel",
+  "zh": "取消"
+ },
+ "Card": {
+  "en": "Card",
+  "zh": "卡片"
+ },
+ "Cayman Islands": {
+  "en": "Cayman Islands",
+  "zh": "開曼群島"
+ },
+ "Certificates & keys": {
+  "en": "Certificates & keys",
+  "zh": "憑證與金鑰"
+ },
+ "Change master password": {
+  "en": "Change master password",
+  "zh": "變更主密碼"
+ },
+ "Checking": {
+  "en": "Checking",
+  "zh": "支票帳戶"
+ },
+ "Chile": {
+  "en": "Chile",
+  "zh": "智利"
+ },
+ "Christmas Island": {
+  "en": "Christmas Island",
+  "zh": "聖誕島"
+ },
+ "Chrome": {
+  "en": "Chrome",
+  "zh": "Chrome"
+ },
+ "City": {
+  "en": "City",
+  "zh": "城市"
+ },
+ "City / Town": {
+  "en": "City/Town",
+  "zh": "城市／鄉鎮"
+ },
+ "Click here to initiate multifactor authentication on your phone or mobile device.": {
+  "en": "Click to initiate multifactor authentication on your phone or mobile device.",
+  "zh": "按這裡在您的手機或行動裝置上開始多重要素驗證。"
+ },
+ "Close": {
+  "en": "Close",
+  "zh": "關閉"
+ },
+ "Cloud Apps": {
+  "en": "Cloud Apps",
+  "zh": "雲端應用程式"
+ },
+ "Co-pay": {
+  "en": "Co-pay",
+  "zh": "部分負擔"
+ },
+ "Cocos (Keeling) Islands": {
+  "en": "Cocos (Keeling) Islands",
+  "zh": "科科斯（基林）群島"
+ },
+ "Code": {
+  "en": "Code",
+  "zh": "代碼"
+ },
+ "Collapse": {
+  "en": "Collapse",
+  "zh": "收合"
+ },
+ "Colombia": {
+  "en": "Colombia",
+  "zh": "哥倫比亞"
+ },
+ "Colorado": {
+  "en": "Colorado",
+  "zh": "科羅拉多州"
+ },
+ "Company": {
+  "en": "Company",
+  "zh": "公司"
+ },
+ "Company Phone": {
+  "en": "Company Phone",
+  "zh": "公司電話"
+ },
+ "Compromised": {
+  "en": "Compromised",
+  "zh": "已遭盜用"
+ },
+ "Confirm": {
+  "en": "Confirm",
+  "zh": "確認"
+ },
+ "Connecticut": {
+  "en": "Connecticut",
+  "zh": "康乃狄克州"
+ },
+ "Connection Mode": {
+  "en": "Connection Mode",
+  "zh": "連線模式"
+ },
+ "Connection Type": {
+  "en": "Connection Type",
+  "zh": "連線類型"
+ },
+ "Contact": {
+  "en": "Contact",
+  "zh": "聯絡人"
+ },
+ "Contact your %s administrator for assistance.": {
+  "en": "Contact your %s administrator for assistance.",
+  "zh": "請聯絡您的 %s 管理員尋求協助。"
+ },
+ "Continue": {
+  "en": "Continue",
+  "zh": "繼續"
+ },
+ "Cook Islands": {
+  "en": "Cook Islands",
+  "zh": "庫克群島"
+ },
+ "Copy": {
+  "en": "Copy",
+  "zh": "複製"
+ },
+ "Copy CVV/Security code": {
+  "en": "Copy CVV/Security code",
+  "zh": "複製 CVV／安全碼"
+ },
+ "Copy account number": {
+  "en": "Copy account number",
+  "zh": "複製帳號"
+ },
+ "Copy card number": {
+  "en": "Copy card number",
+  "zh": "複製卡號"
+ },
+ "Copy city/town": {
+  "en": "Copy city/town",
+  "zh": "複製城市／鄉鎮"
+ },
+ "Copy email address": {
+  "en": "Copy email address",
+  "zh": "複製電子郵件地址"
+ },
+ "Copy first name": {
+  "en": "Copy first name",
+  "zh": "複製名字"
+ },
+ "Copy last name": {
+  "en": "Copy last name",
+  "zh": "複製姓氏"
+ },
+ "Copy password": {
+  "en": "Copy password",
+  "zh": "複製密碼"
+ },
+ "Copy phone number": {
+  "en": "Copy phone number",
+  "zh": "複製電話號碼"
+ },
+ "Copy routing number": {
+  "en": "Copy routing number",
+  "zh": "複製銀行代碼"
+ },
+ "Copy username": {
+  "en": "Copy username",
+  "zh": "複製使用者名稱"
+ },
+ "Costa Rica": {
+  "en": "Costa Rica",
+  "zh": "哥斯大黎加"
+ },
+ "Country": {
+  "en": "Country",
+  "zh": "國家/地區"
+ },
+ "County": {
+  "en": "County",
+  "zh": "郡"
+ },
+ "Created": {
+  "en": "Created",
+  "zh": "建立時間"
+ },
+ "Credit Card": {
+  "en": "Credit Card",
+  "zh": "信用卡"
+ },
+ "Ctrl": {
+  "en": "Ctrl",
+  "zh": "Ctrl"
+ },
+ "Cuba": {
+  "en": "Cuba",
+  "zh": "古巴"
+ },
+ "Current %s account:": {
+  "en": "Current %s account:",
+  "zh": "目前的 %s 帳戶："
+ },
+ "Custom": {
+  "en": "Custom",
+  "zh": "自訂"
+ },
+ "DELETE": {
+  "en": "Delete",
+  "zh": "刪除"
+ },
+ "DELETED": {
+  "en": "DELETED",
+  "zh": "已刪除"
+ },
+ "Database": {
+  "en": "Database",
+  "zh": "資料庫"
+ },
+ "Date": {
+  "en": "Date",
+  "zh": "日期"
+ },
+ "Date of Birth": {
+  "en": "Date of Birth",
+  "zh": "出生日期"
+ },
+ "December": {
+  "en": "December",
+  "zh": "12 月"
+ },
+ "Default": {
+  "en": "Default",
+  "zh": "預設"
+ },
+ "Delaware": {
+  "en": "Delaware",
+  "zh": "德拉瓦州"
+ },
+ "Delete": {
+  "en": "Delete",
+  "zh": "刪除"
+ },
+ "Desktop": {
+  "en": "Desktop",
+  "zh": "桌面"
+ },
+ "Dining": {
+  "en": "Dining",
+  "zh": "餐飲"
+ },
+ "Disable Multifactor": {
+  "en": "Disable multifactor",
+  "zh": "停用多重要素驗證"
+ },
+ "Dismiss": {
+  "en": "Dismiss",
+  "zh": "關閉"
+ },
+ "District of Columbia": {
+  "en": "District of Columbia",
+  "zh": "哥倫比亞特區"
+ },
+ "Djibouti": {
+  "en": "Djibouti",
+  "zh": "吉布地"
+ },
+ "Dominica": {
+  "en": "Dominica",
+  "zh": "多米尼克"
+ },
+ "Done": {
+  "en": "Done",
+  "zh": "完成"
+ },
+ "Driver's License": {
+  "en": "Driver's License",
+  "zh": "駕照"
+ },
+ "Duplicate": {
+  "en": "Duplicate",
+  "zh": "重複"
+ },
+ "Dutch": {
+  "en": "Dutch",
+  "zh": "荷蘭文"
+ },
+ "ERROR": {
+  "en": "ERROR",
+  "zh": "錯誤"
+ },
+ "Ecuador": {
+  "en": "Ecuador",
+  "zh": "厄瓜多"
+ },
+ "Edge": {
+  "en": "Edge",
+  "zh": "Edge"
+ },
+ "Edit": {
+  "en": "Edit",
+  "zh": "編輯"
+ },
+ "Edit %s": {
+  "en": "Edit %s",
+  "zh": "編輯%s"
+ },
+ "Edit Form Fields": {
+  "en": "Edit Form Fields",
+  "zh": "編輯表單欄位"
+ },
+ "Edit Note": {
+  "en": "Edit Note",
+  "zh": "編輯附註"
+ },
+ "Edit Site": {
+  "en": "Edit Site",
+  "zh": "編輯網站"
+ },
+ "Education": {
+  "en": "Education",
+  "zh": "教育"
+ },
+ "El Salvador": {
+  "en": "El Salvador",
+  "zh": "薩爾瓦多"
+ },
+ "Email": {
+  "en": "Email",
+  "zh": "電子郵件"
+ },
+ "Email Account": {
+  "en": "Email Account",
+  "zh": "電子郵件帳戶"
+ },
+ "Email Address": {
+  "en": "Email Address",
+  "zh": "電子郵件地址"
+ },
+ "Enabled": {
+  "en": "Enabled",
+  "zh": "已啟用"
+ },
+ "Encryption": {
+  "en": "Encryption",
+  "zh": "加密"
+ },
+ "English": {
+  "en": "English",
+  "zh": "英文"
+ },
+ "Enter a one-time passcode from your authenticator app.": {
+  "en": "Enter a one-time passcode from your authenticator app.",
+  "zh": "請輸入驗證器 App 中的一次性密碼。"
+ },
+ "Enter your secret key to show time-based one-time passcodes (TOTP) in your LastPass vault.": {
+  "en": "Enter your secret key to show time-based one-time passcodes (TOTP) in your LastPass vault.",
+  "zh": "輸入您的秘密金鑰，即可在 LastPass 保管庫中顯示以時間為基礎的一次性密碼 (TOTP)。"
+ },
+ "Enterprise": {
+  "en": "LastPass Business",
+  "zh": "LastPass 企業版"
+ },
+ "Entertainment": {
+  "en": "Entertainment",
+  "zh": "娛樂"
+ },
+ "Eritrea": {
+  "en": "Eritrea",
+  "zh": "厄利垂亞"
+ },
+ "Error": {
+  "en": "Error",
+  "zh": "錯誤"
+ },
+ "ErrorSessionMsg": {
+  "en": "It looks like your LastPass session has expired. Log in to continue using LastPass.",
+  "zh": "您的 LastPass 工作階段似乎已過期。請登入以繼續使用 LastPass。"
+ },
+ "Ethiopia": {
+  "en": "Ethiopia",
+  "zh": "衣索比亞"
+ },
+ "Evening Phone": {
+  "en": "Evening Phone",
+  "zh": "晚間電話"
+ },
+ "Expand": {
+  "en": "Expand",
+  "zh": "展開"
+ },
+ "Expiration": {
+  "en": "Expiration",
+  "zh": "到期"
+ },
+ "Expiration Date": {
+  "en": "Expiration Date",
+  "zh": "到期日"
+ },
+ "Expired": {
+  "en": "Expired",
+  "zh": "已到期"
+ },
+ "Export": {
+  "en": "Export",
+  "zh": "匯出"
+ },
+ "Extension": {
+  "en": "Extension",
+  "zh": "分機"
+ },
+ "FIPS Mode": {
+  "en": "FIPS Mode",
+  "zh": "FIPS 模式"
+ },
+ "Failed": {
+  "en": "Failed",
+  "zh": "失敗"
+ },
+ "Families": {
+  "en": "Families",
+  "zh": "家庭方案"
+ },
+ "Family": {
+  "en": "Families",
+  "zh": "家庭方案"
+ },
+ "Favorites": {
+  "en": "Favorites",
+  "zh": "我的最愛"
+ },
+ "Fax": {
+  "en": "Fax",
+  "zh": "傳真"
+ },
+ "February": {
+  "en": "February",
+  "zh": "2 月"
+ },
+ "Field Name is required.": {
+  "en": "Field Name is required.",
+  "zh": "欄位名稱為必填。"
+ },
+ "Field Type": {
+  "en": "Field Type",
+  "zh": "欄位類型"
+ },
+ "Field Type is required.": {
+  "en": "Field Type is required.",
+  "zh": "欄位類型為必填。"
+ },
+ "Fiji": {
+  "en": "Fiji",
+  "zh": "斐濟"
+ },
+ "Fill": {
+  "en": "Fill",
+  "zh": "填入"
+ },
+ "Finance": {
+  "en": "Finance",
+  "zh": "財務"
+ },
+ "Firefox": {
+  "en": "Firefox",
+  "zh": "Firefox"
+ },
+ "First Name": {
+  "en": "First Name",
+  "zh": "名字"
+ },
+ "Florida": {
+  "en": "Florida",
+  "zh": "佛羅里達州"
+ },
+ "Folder": {
+  "en": "Folder",
+  "zh": "資料夾"
+ },
+ "Forbidden": {
+  "en": "Forbidden",
+  "zh": "禁止存取"
+ },
+ "Form Field %s": {
+  "en": "Form Field %s",
+  "zh": "表單欄位 %s"
+ },
+ "Format": {
+  "en": "Format",
+  "zh": "格式"
+ },
+ "France": {
+  "en": "France",
+  "zh": "法國"
+ },
+ "Free": {
+  "en": "Free",
+  "zh": "免費"
+ },
+ "French": {
+  "en": "French",
+  "zh": "法文"
+ },
+ "Gabon": {
+  "en": "Gabon",
+  "zh": "加彭"
+ },
+ "Gambia": {
+  "en": "Gambia",
+  "zh": "甘比亞"
+ },
+ "Games": {
+  "en": "Games",
+  "zh": "遊戲"
+ },
+ "Gender": {
+  "en": "Gender",
+  "zh": "性別"
+ },
+ "Generate": {
+  "en": "Generate",
+  "zh": "產生"
+ },
+ "Generate Secure Password": {
+  "en": "Generate Secure Password",
+  "zh": "產生安全密碼"
+ },
+ "GeneratePassword": {
+  "en": "Click Generate to create a unique, secure password.",
+  "zh": "按「產生」以建立不重複的安全密碼。"
+ },
+ "Generated Password": {
+  "en": "Generated Password",
+  "zh": "產生的密碼"
+ },
+ "Generic": {
+  "en": "Generic",
+  "zh": "一般"
+ },
+ "Georgia": {
+  "en": "Georgia",
+  "zh": "喬治亞"
+ },
+ "German": {
+  "en": "German",
+  "zh": "德文"
+ },
+ "Gibraltar": {
+  "en": "Gibraltar",
+  "zh": "直布羅陀"
+ },
+ "Global": {
+  "en": "Global",
+  "zh": "全域"
+ },
+ "Good": {
+  "en": "Good",
+  "zh": "良好"
+ },
+ "Google Authenticator": {
+  "en": "Google Authenticator",
+  "zh": "Google Authenticator"
+ },
+ "Got it": {
+  "en": "Got it",
+  "zh": "知道了"
+ },
+ "Grenada": {
+  "en": "Grenada",
+  "zh": "格瑞那達"
+ },
+ "Group": {
+  "en": "Group",
+  "zh": "群組"
+ },
+ "Group ID": {
+  "en": "Group ID",
+  "zh": "群組 ID"
+ },
+ "Guadeloupe": {
+  "en": "Guadeloupe",
+  "zh": "瓜地洛普"
+ },
+ "Guam": {
+  "en": "Guam",
+  "zh": "關島"
+ },
+ "Guatemala": {
+  "en": "Guatemala",
+  "zh": "瓜地馬拉"
+ },
+ "Guernsey": {
+  "en": "Guernsey",
+  "zh": "根西島"
+ },
+ "Guyana": {
+  "en": "Guyana",
+  "zh": "蓋亞那"
+ },
+ "HISTORY": {
+  "en": "History",
+  "zh": "記錄"
+ },
+ "Haiti": {
+  "en": "Haiti",
+  "zh": "海地"
+ },
+ "Hawaii": {
+  "en": "Hawaii",
+  "zh": "夏威夷州"
+ },
+ "Health": {
+  "en": "Health",
+  "zh": "健康"
+ },
+ "Health Insurance": {
+  "en": "Health Insurance",
+  "zh": "健康保險"
+ },
+ "Height": {
+  "en": "Height",
+  "zh": "身高"
+ },
+ "Hold your fingertip on the touch-button for 1 second": {
+  "en": "Hold your fingertip on the touch-button for 1 second",
+  "zh": "將指尖按在觸控按鈕上 1 秒"
+ },
+ "Home": {
+  "en": "Home",
+  "zh": "住家"
+ },
+ "Honduras": {
+  "en": "Honduras",
+  "zh": "宏都拉斯"
+ },
+ "Hostname": {
+  "en": "Hostname",
+  "zh": "主機名稱"
+ },
+ "Hours": {
+  "en": "Hours",
+  "zh": "小時"
+ },
+ "I understand": {
+  "en": "I understand",
+  "zh": "我了解"
+ },
+ "I've lost my Google Authenticator device": {
+  "en": "I've lost my Google Authenticator device",
+  "zh": "我遺失了 Google Authenticator 裝置"
+ },
+ "I've lost my Microsoft Authenticator device": {
+  "en": "I've lost my Microsoft Authenticator device",
+  "zh": "我遺失了 Microsoft Authenticator 裝置"
+ },
+ "IBAN Number": {
+  "en": "IBAN Number",
+  "zh": "IBAN 號碼"
+ },
+ "ID": {
+  "en": "ID",
+  "zh": "ID"
+ },
+ "Idaho": {
+  "en": "Idaho",
+  "zh": "愛達荷州"
+ },
+ "Identities": {
+  "en": "Identities",
+  "zh": "身分"
+ },
+ "Illinois": {
+  "en": "Illinois",
+  "zh": "伊利諾州"
+ },
+ "Import": {
+  "en": "Import",
+  "zh": "匯入"
+ },
+ "Inactive": {
+  "en": "Inactive",
+  "zh": "未啟用"
+ },
+ "Indiana": {
+  "en": "Indiana",
+  "zh": "印第安納州"
+ },
+ "Individual": {
+  "en": "Individual",
+  "zh": "個人"
+ },
+ "Indonesia": {
+  "en": "Indonesia",
+  "zh": "印尼"
+ },
+ "Insert your YubiKey in the USB-port with the USB-contact facing upward": {
+  "en": "Insert your YubiKey to the USB port",
+  "zh": "將 YubiKey 插入 USB 連接埠"
+ },
+ "Instant Messenger": {
+  "en": "Instant Messenger",
+  "zh": "即時通訊"
+ },
+ "Insurance": {
+  "en": "Insurance",
+  "zh": "保險"
+ },
+ "Invalid": {
+  "en": "Invalid",
+  "zh": "無效"
+ },
+ "Invalid JSON response.": {
+  "en": "Something went wrong. If the problem persists, reach out to the LastPass team (Error: Invalid JSON response).",
+  "zh": "發生問題。如果問題持續發生，請聯絡 LastPass 團隊（錯誤：無效的 JSON 回應）。"
+ },
+ "Invalid RSA public key": {
+  "en": "Invalid RSA public key",
+  "zh": "無效的 RSA 公開金鑰"
+ },
+ "Invalid URL": {
+  "en": "Invalid URL",
+  "zh": "無效的網址"
+ },
+ "Invalid XML response.": {
+  "en": "Something went wrong. If the problem persists, reach out to the LastPass team (Error: Invalid XML response).",
+  "zh": "發生問題。如果問題持續發生，請聯絡 LastPass 團隊（錯誤：無效的 XML 回應）。"
+ },
+ "Invalid code.": {
+  "en": "Invalid code.",
+  "zh": "驗證碼無效。"
+ },
+ "Iowa": {
+  "en": "Iowa",
+  "zh": "愛荷華州"
+ },
+ "Ireland": {
+  "en": "Ireland",
+  "zh": "愛爾蘭"
+ },
+ "Isle of Man": {
+  "en": "Isle of Man",
+  "zh": "曼島"
+ },
+ "Issued Date": {
+  "en": "Issued Date",
+  "zh": "核發日期"
+ },
+ "Issuing Authority": {
+  "en": "Issuing Authority",
+  "zh": "核發機關"
+ },
+ "Italian": {
+  "en": "Italian",
+  "zh": "義大利文"
+ },
+ "Jamaica": {
+  "en": "Jamaica",
+  "zh": "牙買加"
+ },
+ "January": {
+  "en": "January",
+  "zh": "1 月"
+ },
+ "Jersey": {
+  "en": "Jersey",
+  "zh": "澤西島"
+ },
+ "July": {
+  "en": "July",
+  "zh": "7 月"
+ },
+ "June": {
+  "en": "June",
+  "zh": "6 月"
+ },
+ "Kansas": {
+  "en": "Kansas",
+  "zh": "堪薩斯州"
+ },
+ "Kentucky": {
+  "en": "Kentucky",
+  "zh": "肯塔基州"
+ },
+ "Key Index": {
+  "en": "Key Index",
+  "zh": "金鑰索引"
+ },
+ "Key Type": {
+  "en": "Key Type",
+  "zh": "金鑰類型"
+ },
+ "Kiribati": {
+  "en": "Kiribati",
+  "zh": "吉里巴斯"
+ },
+ "Language": {
+  "en": "Language",
+  "zh": "語言"
+ },
+ "Last 2 weeks": {
+  "en": "Last 2 weeks",
+  "zh": "過去 2 週"
+ },
+ "Last 7 days": {
+  "en": "Last 7 days",
+  "zh": "過去 7 天"
+ },
+ "Last Name": {
+  "en": "Last Name",
+  "zh": "姓氏"
+ },
+ "Last month": {
+  "en": "Last month",
+  "zh": "上個月"
+ },
+ "LastPass": {
+  "en": "LastPass",
+  "zh": "LastPass"
+ },
+ "LastPass Authenticator": {
+  "en": "LastPass Authenticator",
+  "zh": "LastPass Authenticator"
+ },
+ "LastPass Families": {
+  "en": "LastPass Families",
+  "zh": "LastPass 家庭方案"
+ },
+ "LastPass Premium": {
+  "en": "LastPass Premium",
+  "zh": "LastPass 進階版"
+ },
+ "LastPassK1 is missing or has invalid length.": {
+  "en": "'LastPassK1' is missing or has invalid length.",
+  "zh": "「LastPassK1」遺失或長度無效。"
+ },
+ "Launch": {
+  "en": "Launch",
+  "zh": "開啟"
+ },
+ "Launch URL": {
+  "en": "Launch URL",
+  "zh": "開啟網址"
+ },
+ "Learn More": {
+  "en": "Learn More",
+  "zh": "了解詳情"
+ },
+ "Learn more": {
+  "en": "Learn more",
+  "zh": "了解詳情"
+ },
+ "Left": {
+  "en": "Left",
+  "zh": "左"
+ },
+ "Lesotho": {
+  "en": "Lesotho",
+  "zh": "賴索托"
+ },
+ "Liberia": {
+  "en": "Liberia",
+  "zh": "賴比瑞亞"
+ },
+ "License Class": {
+  "en": "License Class",
+  "zh": "駕照類別"
+ },
+ "License Key": {
+  "en": "License Key",
+  "zh": "授權金鑰"
+ },
+ "Licensee": {
+  "en": "Licensee",
+  "zh": "被授權人"
+ },
+ "Liechtenstein": {
+  "en": "Liechtenstein",
+  "zh": "列支敦斯登"
+ },
+ "Loading": {
+  "en": "Loading",
+  "zh": "載入中"
+ },
+ "Loading...": {
+  "en": "Loading...",
+  "zh": "載入中..."
+ },
+ "Login": {
+  "en": "Log in",
+  "zh": "登入"
+ },
+ "Login to LastPass": {
+  "en": "Log in to LastPass",
+  "zh": "登入 LastPass"
+ },
+ "Logout": {
+  "en": "Log Out",
+  "zh": "登出"
+ },
+ "Look for a browser window where Duo asks you to verify your identity.": {
+  "en": "Look for a browser window where Duo asks you to verify your identity.",
+  "zh": "請尋找 Duo 要求您驗證身分的瀏覽器視窗。"
+ },
+ "Louisiana": {
+  "en": "Louisiana",
+  "zh": "路易斯安那州"
+ },
+ "Luxembourg": {
+  "en": "Luxembourg",
+  "zh": "盧森堡"
+ },
+ "Maine": {
+  "en": "Maine",
+  "zh": "緬因州"
+ },
+ "Make sure you have the latest version of LastPass and try again. If the problem persists, make sure the source vault has been enhanced for privacy.": {
+  "en": "Make sure you have the latest version of LastPass and try again. If the problem persists, make sure the source vault has been enhanced for privacy.",
+  "zh": "請確認您使用最新版的 LastPass 後再試一次。如果問題持續發生，請確認來源保管庫已完成隱私強化。"
+ },
+ "Malawi": {
+  "en": "Malawi",
+  "zh": "馬拉威"
+ },
+ "Malaysia": {
+  "en": "Malaysia",
+  "zh": "馬來西亞"
+ },
+ "Maldives": {
+  "en": "Maldives",
+  "zh": "馬爾地夫"
+ },
+ "Mali": {
+  "en": "Mali",
+  "zh": "馬利"
+ },
+ "Malta": {
+  "en": "Malta",
+  "zh": "馬爾他"
+ },
+ "Manage": {
+  "en": "Manage",
+  "zh": "管理"
+ },
+ "Manitoba": {
+  "en": "Manitoba",
+  "zh": "曼尼托巴省"
+ },
+ "March": {
+  "en": "March",
+  "zh": "3 月"
+ },
+ "Marshall Islands": {
+  "en": "Marshall Islands",
+  "zh": "馬紹爾群島"
+ },
+ "Martinique": {
+  "en": "Martinique",
+  "zh": "馬丁尼克"
+ },
+ "Maryland": {
+  "en": "Maryland",
+  "zh": "馬里蘭州"
+ },
+ "Massachusetts": {
+  "en": "Massachusetts",
+  "zh": "麻薩諸塞州"
+ },
+ "May": {
+  "en": "May",
+  "zh": "5 月"
+ },
+ "Mayotte": {
+  "en": "Mayotte",
+  "zh": "馬約特"
+ },
+ "Media": {
+  "en": "Media",
+  "zh": "媒體"
+ },
+ "Member ID": {
+  "en": "Member ID",
+  "zh": "會員 ID"
+ },
+ "Member Name": {
+  "en": "Member Name",
+  "zh": "會員姓名"
+ },
+ "Membership": {
+  "en": "Membership",
+  "zh": "會員資格"
+ },
+ "Membership Number": {
+  "en": "Membership Number",
+  "zh": "會員編號"
+ },
+ "Message too long for RSA": {
+  "en": "Message too long for RSA",
+  "zh": "訊息過長，無法使用 RSA"
+ },
+ "Meta": {
+  "en": "Meta",
+  "zh": "Meta"
+ },
+ "Michigan": {
+  "en": "Michigan",
+  "zh": "密西根州"
+ },
+ "Microsoft Authenticator": {
+  "en": "Microsoft Authenticator",
+  "zh": "Microsoft Authenticator"
+ },
+ "Middle Name": {
+  "en": "Middle Name",
+  "zh": "中間名"
+ },
+ "Minnesota": {
+  "en": "Minnesota",
+  "zh": "明尼蘇達州"
+ },
+ "Minutes": {
+  "en": "Minutes",
+  "zh": "分鐘"
+ },
+ "Mississippi": {
+  "en": "Mississippi",
+  "zh": "密西西比州"
+ },
+ "Missouri": {
+  "en": "Missouri",
+  "zh": "密蘇里州"
+ },
+ "Mobile": {
+  "en": "Mobile",
+  "zh": "行動裝置"
+ },
+ "Mobile Phone": {
+  "en": "Mobile Phone",
+  "zh": "手機"
+ },
+ "Monaco": {
+  "en": "Monaco",
+  "zh": "摩納哥"
+ },
+ "Montana": {
+  "en": "Montana",
+  "zh": "蒙大拿州"
+ },
+ "Montserrat": {
+  "en": "Montserrat",
+  "zh": "蒙哲臘"
+ },
+ "More": {
+  "en": "More",
+  "zh": "更多"
+ },
+ "More options": {
+  "en": "More options",
+  "zh": "更多選項"
+ },
+ "Multifactor Authentication": {
+  "en": "Multifactor authentication",
+  "zh": "多重要素驗證"
+ },
+ "N/A": {
+  "en": "N/A",
+  "zh": "不適用"
+ },
+ "Name": {
+  "en": "Name",
+  "zh": "名稱"
+ },
+ "Name on Card": {
+  "en": "Name on Card",
+  "zh": "持卡人姓名"
+ },
+ "Nationality": {
+  "en": "Nationality",
+  "zh": "國籍"
+ },
+ "Nauru": {
+  "en": "Nauru",
+  "zh": "諾魯"
+ },
+ "Nebraska": {
+  "en": "Nebraska",
+  "zh": "內布拉斯加州"
+ },
+ "Nevada": {
+  "en": "Nevada",
+  "zh": "內華達州"
+ },
+ "Never": {
+  "en": "Never",
+  "zh": "永不"
+ },
+ "New": {
+  "en": "New",
+  "zh": "新增"
+ },
+ "New Brunswick": {
+  "en": "New Brunswick",
+  "zh": "新伯倫瑞克省"
+ },
+ "New Hampshire": {
+  "en": "New Hampshire",
+  "zh": "新罕布夏州"
+ },
+ "New Jersey": {
+  "en": "New Jersey",
+  "zh": "紐澤西州"
+ },
+ "New Mexico": {
+  "en": "New Mexico",
+  "zh": "新墨西哥州"
+ },
+ "New York": {
+  "en": "New York",
+  "zh": "紐約州"
+ },
+ "New Zealand": {
+  "en": "New Zealand",
+  "zh": "紐西蘭"
+ },
+ "Newfoundland and Labrador": {
+  "en": "Newfoundland and Labrador",
+  "zh": "紐芬蘭與拉布拉多省"
+ },
+ "News/Reference": {
+  "en": "News/Reference",
+  "zh": "新聞／參考資料"
+ },
+ "Next": {
+  "en": "Next",
+  "zh": "下一步"
+ },
+ "Next SMS passcode starts with": {
+  "en": "Next SMS passcode starts with",
+  "zh": "下一組簡訊驗證碼開頭為"
+ },
+ "Nicaragua": {
+  "en": "Nicaragua",
+  "zh": "尼加拉瓜"
+ },
+ "Nigeria": {
+  "en": "Nigeria",
+  "zh": "奈及利亞"
+ },
+ "Niue": {
+  "en": "Niue",
+  "zh": "紐埃"
+ },
+ "No": {
+  "en": "No",
+  "zh": "否"
+ },
+ "No notification? Enter a one-time passcode from your authenticator app.": {
+  "en": "No notification? Enter a one-time passcode from your authenticator app.",
+  "zh": "沒收到通知？請輸入驗證器 App 中的一次性密碼。"
+ },
+ "No profile information.": {
+  "en": "No profile information.",
+  "zh": "沒有個人檔案資訊。"
+ },
+ "No token was provided. Request could not be completed.": {
+  "en": "No token provided. Request not completed.",
+  "zh": "未提供權杖，無法完成要求。"
+ },
+ "None": {
+  "en": "None",
+  "zh": "無"
+ },
+ "Norfolk Island": {
+  "en": "Norfolk Island",
+  "zh": "諾福克島"
+ },
+ "Normal": {
+  "en": "Normal",
+  "zh": "一般"
+ },
+ "North Carolina": {
+  "en": "North Carolina",
+  "zh": "北卡羅來納州"
+ },
+ "North Dakota": {
+  "en": "North Dakota",
+  "zh": "北達科他州"
+ },
+ "Northern Mariana Islands": {
+  "en": "Northern Mariana Islands",
+  "zh": "北馬利安納群島"
+ },
+ "Northwest Territories": {
+  "en": "Northwest Territories",
+  "zh": "西北地區"
+ },
+ "Not Now": {
+  "en": "Not Now",
+  "zh": "現在不要"
+ },
+ "Not now": {
+  "en": "Not now",
+  "zh": "現在不要"
+ },
+ "Note History": {
+  "en": "Note History",
+  "zh": "附註記錄"
+ },
+ "Notes": {
+  "en": "Notes",
+  "zh": "附註"
+ },
+ "Notification": {
+  "en": "Notification",
+  "zh": "通知"
+ },
+ "Notifications": {
+  "en": "Notifications",
+  "zh": "通知"
+ },
+ "Nova Scotia": {
+  "en": "Nova Scotia",
+  "zh": "新斯科細亞省"
+ },
+ "November": {
+  "en": "November",
+  "zh": "11 月"
+ },
+ "Number": {
+  "en": "Number",
+  "zh": "號碼"
+ },
+ "Number of Licenses": {
+  "en": "Number of Licenses",
+  "zh": "授權數量"
+ },
+ "Nunavut": {
+  "en": "Nunavut",
+  "zh": "努納福特地區"
+ },
+ "OK": {
+  "en": "OK",
+  "zh": "確定"
+ },
+ "October": {
+  "en": "October",
+  "zh": "10 月"
+ },
+ "Ohio": {
+  "en": "Ohio",
+  "zh": "俄亥俄州"
+ },
+ "Ok": {
+  "en": "OK",
+  "zh": "確定"
+ },
+ "Oklahoma": {
+  "en": "Oklahoma",
+  "zh": "奧克拉荷馬州"
+ },
+ "Okta": {
+  "en": "Okta",
+  "zh": "Okta"
+ },
+ "OneLogin": {
+  "en": "OneLogin",
+  "zh": "OneLogin"
+ },
+ "Ontario": {
+  "en": "Ontario",
+  "zh": "安大略省"
+ },
+ "Opera": {
+  "en": "Opera",
+  "zh": "Opera"
+ },
+ "Options": {
+  "en": "Options",
+  "zh": "選項"
+ },
+ "Order Number": {
+  "en": "Order Number",
+  "zh": "訂單編號"
+ },
+ "Order Total": {
+  "en": "Order Total",
+  "zh": "訂單總額"
+ },
+ "Oregon": {
+  "en": "Oregon",
+  "zh": "奧勒岡州"
+ },
+ "Organization": {
+  "en": "Organization",
+  "zh": "組織"
+ },
+ "Other": {
+  "en": "Other",
+  "zh": "其他"
+ },
+ "Paid": {
+  "en": "Paid",
+  "zh": "已付款"
+ },
+ "Palau": {
+  "en": "Palau",
+  "zh": "帛琉"
+ },
+ "Papua New Guinea": {
+  "en": "Papua New Guinea",
+  "zh": "巴布亞紐幾內亞"
+ },
+ "Paraguay": {
+  "en": "Paraguay",
+  "zh": "巴拉圭"
+ },
+ "Passkey": {
+  "en": "Passkey",
+  "zh": "通行金鑰"
+ },
+ "Passphrase": {
+  "en": "Passphrase",
+  "zh": "密語"
+ },
+ "Passport": {
+  "en": "Passport",
+  "zh": "護照"
+ },
+ "Password": {
+  "en": "Password",
+  "zh": "密碼"
+ },
+ "Password History": {
+  "en": "Password History",
+  "zh": "密碼記錄"
+ },
+ "Payment card": {
+  "en": "Payment card",
+  "zh": "付款卡"
+ },
+ "Pennsylvania": {
+  "en": "Pennsylvania",
+  "zh": "賓夕法尼亞州"
+ },
+ "Personal": {
+  "en": "Personal",
+  "zh": "個人"
+ },
+ "Personal information": {
+  "en": "Personal information",
+  "zh": "個人資訊"
+ },
+ "Philippines": {
+  "en": "Philippines",
+  "zh": "菲律賓"
+ },
+ "Phone": {
+  "en": "Phone",
+  "zh": "電話"
+ },
+ "Phone Number": {
+  "en": "Phone Number",
+  "zh": "電話號碼"
+ },
+ "Phone number": {
+  "en": "Phone number",
+  "zh": "電話號碼"
+ },
+ "Physician Address": {
+  "en": "Physician Address",
+  "zh": "醫師地址"
+ },
+ "Physician Name": {
+  "en": "Physician Name",
+  "zh": "醫師姓名"
+ },
+ "Physician Phone": {
+  "en": "Physician Phone",
+  "zh": "醫師電話"
+ },
+ "Pin": {
+  "en": "PIN",
+  "zh": "PIN 碼"
+ },
+ "PingOne": {
+  "en": "PingOne",
+  "zh": "PingOne"
+ },
+ "Please complete multifactor authentication on your phone or mobile device.": {
+  "en": "Please complete multifactor authentication on your phone or mobile device.",
+  "zh": "請在您的手機或行動裝置上完成多重要素驗證。"
+ },
+ "Policy Number": {
+  "en": "Policy Number",
+  "zh": "保單號碼"
+ },
+ "Policy Type": {
+  "en": "Policy Type",
+  "zh": "保單類型"
+ },
+ "Port": {
+  "en": "Port",
+  "zh": "連接埠"
+ },
+ "Portugal": {
+  "en": "Portugal",
+  "zh": "葡萄牙"
+ },
+ "Portuguese (Brazilian)": {
+  "en": "Portuguese (Brazilian)",
+  "zh": "葡萄牙文（巴西）"
+ },
+ "Preferences": {
+  "en": "Preferences",
+  "zh": "偏好設定"
+ },
+ "Premium": {
+  "en": "Premium",
+  "zh": "進階版"
+ },
+ "Price": {
+  "en": "Price",
+  "zh": "價格"
+ },
+ "Prince Edward Island": {
+  "en": "Prince Edward Island",
+  "zh": "愛德華王子島省"
+ },
+ "Print": {
+  "en": "Print",
+  "zh": "列印"
+ },
+ "Private Key": {
+  "en": "Private Key",
+  "zh": "私密金鑰"
+ },
+ "Productivity Tools": {
+  "en": "Productivity Tools",
+  "zh": "生產力工具"
+ },
+ "Protected": {
+  "en": "Protected",
+  "zh": "受保護"
+ },
+ "Public Key": {
+  "en": "Public Key",
+  "zh": "公開金鑰"
+ },
+ "Publisher": {
+  "en": "Publisher",
+  "zh": "發行者"
+ },
+ "Puerto Rico": {
+  "en": "Puerto Rico",
+  "zh": "波多黎各"
+ },
+ "Purchase": {
+  "en": "Purchase",
+  "zh": "購買"
+ },
+ "Purchase Date": {
+  "en": "Purchase Date",
+  "zh": "購買日期"
+ },
+ "Relying Party ID": {
+  "en": "Relying Party ID",
+  "zh": "信賴方 ID"
+ },
+ "Remove Site from Favorites": {
+  "en": "Remove Site from Favorites",
+  "zh": "從我的最愛移除網站"
+ },
+ "Rename": {
+  "en": "Rename",
+  "zh": "重新命名"
+ },
+ "Replace": {
+  "en": "Replace",
+  "zh": "取代"
+ },
+ "Replace %s": {
+  "en": "Replace %s",
+  "zh": "取代%s"
+ },
+ "Replace Site": {
+  "en": "Replace Site",
+  "zh": "取代網站"
+ },
+ "Required": {
+  "en": "Required",
+  "zh": "必填"
+ },
+ "Resend": {
+  "en": "Resend",
+  "zh": "重新傳送"
+ },
+ "Reset": {
+  "en": "Reset",
+  "zh": "重設"
+ },
+ "Rhode Island": {
+  "en": "Rhode Island",
+  "zh": "羅德島州"
+ },
+ "Right": {
+  "en": "Right",
+  "zh": "右"
+ },
+ "Risk": {
+  "en": "Risk",
+  "zh": "風險"
+ },
+ "Routing Number": {
+  "en": "Routing Number",
+  "zh": "銀行代碼"
+ },
+ "SHOW": {
+  "en": "SHOW",
+  "zh": "顯示"
+ },
+ "SID": {
+  "en": "SID",
+  "zh": "SID"
+ },
+ "SMTP Port": {
+  "en": "SMTP Port",
+  "zh": "SMTP 連接埠"
+ },
+ "SMTP Server": {
+  "en": "SMTP Server",
+  "zh": "SMTP 伺服器"
+ },
+ "SSH Key": {
+  "en": "SSH Key",
+  "zh": "SSH 金鑰"
+ },
+ "SSID": {
+  "en": "SSID",
+  "zh": "SSID"
+ },
+ "SUCCESS": {
+  "en": "Success",
+  "zh": "成功"
+ },
+ "SWIFT Code": {
+  "en": "SWIFT Code",
+  "zh": "SWIFT 代碼"
+ },
+ "Safari": {
+  "en": "Safari",
+  "zh": "Safari"
+ },
+ "Saint Helena": {
+  "en": "Saint Helena",
+  "zh": "聖赫勒拿島"
+ },
+ "Saint Kitts and Nevis": {
+  "en": "Saint Kitts and Nevis",
+  "zh": "聖克里斯多福及尼維斯"
+ },
+ "Saint Lucia": {
+  "en": "Saint Lucia",
+  "zh": "聖露西亞"
+ },
+ "Saint Vincent and the Grenadines": {
+  "en": "Saint Vincent and the Grenadines",
+  "zh": "聖文森及格瑞那丁"
+ },
+ "Samoa": {
+  "en": "Samoa",
+  "zh": "薩摩亞"
+ },
+ "San Marino": {
+  "en": "San Marino",
+  "zh": "聖馬利諾"
+ },
+ "Saskatchewan": {
+  "en": "Saskatchewan",
+  "zh": "薩斯喀徹溫省"
+ },
+ "Save": {
+  "en": "Save",
+  "zh": "儲存"
+ },
+ "Search": {
+  "en": "Search",
+  "zh": "搜尋"
+ },
+ "Secure": {
+  "en": "Secure",
+  "zh": "安全"
+ },
+ "Security Code": {
+  "en": "Security Code",
+  "zh": "安全碼"
+ },
+ "Security Dashboard": {
+  "en": "Security Dashboard",
+  "zh": "安全性儀表板"
+ },
+ "Send me an email passcode": {
+  "en": "Send me an email passcode",
+  "zh": "寄送電子郵件驗證碼給我"
+ },
+ "September": {
+  "en": "September",
+  "zh": "9 月"
+ },
+ "Server": {
+  "en": "Server",
+  "zh": "伺服器"
+ },
+ "Sex": {
+  "en": "Sex",
+  "zh": "性別"
+ },
+ "Seychelles": {
+  "en": "Seychelles",
+  "zh": "塞席爾"
+ },
+ "Share": {
+  "en": "Share",
+  "zh": "共用"
+ },
+ "Sharing is restricted by a LastPass Enterprise policy.": {
+  "en": "Your organization prohibits sharing.",
+  "zh": "您的組織禁止共用。"
+ },
+ "Shift": {
+  "en": "Shift",
+  "zh": "Shift"
+ },
+ "Shopping": {
+  "en": "Shopping",
+  "zh": "購物"
+ },
+ "Show": {
+  "en": "Show",
+  "zh": "顯示"
+ },
+ "Sierra Leone": {
+  "en": "Sierra Leone",
+  "zh": "獅子山"
+ },
+ "Singapore": {
+  "en": "Singapore",
+  "zh": "新加坡"
+ },
+ "Skip for now": {
+  "en": "Skip for now",
+  "zh": "暫時略過"
+ },
+ "Social": {
+  "en": "Social",
+  "zh": "社群"
+ },
+ "Social Security": {
+  "en": "Social Security",
+  "zh": "社會安全號碼"
+ },
+ "Software License": {
+  "en": "Software License",
+  "zh": "軟體授權"
+ },
+ "Solomon Islands": {
+  "en": "Solomon Islands",
+  "zh": "索羅門群島"
+ },
+ "Something went wrong": {
+  "en": "Something went wrong",
+  "zh": "發生問題"
+ },
+ "Something went wrong. Please try again.": {
+  "en": "Something went wrong. Please try again.",
+  "zh": "發生問題，請再試一次。"
+ },
+ "Something went wrong. Try again in a few seconds and everything should be fine.": {
+  "en": "Something went wrong. Try again in a few seconds and everything should be fine.",
+  "zh": "發生問題。請過幾秒再試一次，應該就會恢復正常。"
+ },
+ "Sorry - group names starting with 'Shared-' are created by LastPass to indicate groups shared with other people. Please use a different name.": {
+  "en": "Please use a name that doesn't start with 'Shared'. It's reserved for LastPass to indicate groups shared with other people.",
+  "zh": "請使用不是以「Shared」開頭的名稱。此字首保留給 LastPass 用來標示與他人共用的群組。"
+ },
+ "Sorry, this operation is not allowed by a policy.": {
+  "en": "Your organization prohibits this.",
+  "zh": "您的組織禁止此操作。"
+ },
+ "Sorry, this request is taking longer than normal.": {
+  "en": "Hmm... This is taking longer than usual.",
+  "zh": "嗯...所需時間比平常久。"
+ },
+ "South Africa": {
+  "en": "South Africa",
+  "zh": "南非"
+ },
+ "South Carolina": {
+  "en": "South Carolina",
+  "zh": "南卡羅來納州"
+ },
+ "South Dakota": {
+  "en": "South Dakota",
+  "zh": "南達科他州"
+ },
+ "Spanish": {
+  "en": "Spanish",
+  "zh": "西班牙文"
+ },
+ "Sports": {
+  "en": "Sports",
+  "zh": "運動"
+ },
+ "Start Date": {
+  "en": "Start Date",
+  "zh": "開始日期"
+ },
+ "Started": {
+  "en": "Started",
+  "zh": "已開始"
+ },
+ "State": {
+  "en": "State",
+  "zh": "州/省"
+ },
+ "Status": {
+  "en": "Status",
+  "zh": "狀態"
+ },
+ "Strength": {
+  "en": "Strength",
+  "zh": "強度"
+ },
+ "Submit": {
+  "en": "Submit",
+  "zh": "送出"
+ },
+ "Subscription": {
+  "en": "Subscription",
+  "zh": "訂閱"
+ },
+ "Success": {
+  "en": "Success",
+  "zh": "成功"
+ },
+ "Super!": {
+  "en": "Super!",
+  "zh": "太棒了！"
+ },
+ "Support Email": {
+  "en": "Support Email",
+  "zh": "支援電子郵件"
+ },
+ "Suriname": {
+  "en": "Suriname",
+  "zh": "蘇利南"
+ },
+ "Suspicious characters found in selected filename, will not process it": {
+  "en": "We can't process this file due to unrecognized characters in its name",
+  "zh": "檔案名稱含有無法辨識的字元，因此無法處理此檔案"
+ },
+ "Svalbard and Jan Mayen": {
+  "en": "Svalbard and Jan Mayen",
+  "zh": "斯瓦巴及揚馬延"
+ },
+ "Swaziland": {
+  "en": "Swaziland",
+  "zh": "史瓦帝尼"
+ },
+ "Tajikistan": {
+  "en": "Tajikistan",
+  "zh": "塔吉克"
+ },
+ "Teams": {
+  "en": "Teams",
+  "zh": "團隊版"
+ },
+ "Telecom": {
+  "en": "Telecom",
+  "zh": "電信"
+ },
+ "Telephone": {
+  "en": "Telephone",
+  "zh": "電話"
+ },
+ "Tennessee": {
+  "en": "Tennessee",
+  "zh": "田納西州"
+ },
+ "Texas": {
+  "en": "Texas",
+  "zh": "德州"
+ },
+ "Text": {
+  "en": "Text",
+  "zh": "文字"
+ },
+ "This is a shared site. You are not permitted to view the password.": {
+  "en": "You aren't allowed to view the password for this shared site.",
+  "zh": "您沒有權限檢視此共用網站的密碼。"
+ },
+ "This request cannot be completed because you are currently offline.": {
+  "en": "You can't do this while offline.",
+  "zh": "離線時無法執行此操作。"
+ },
+ "Timezone": {
+  "en": "Timezone",
+  "zh": "時區"
+ },
+ "Timor-Leste": {
+  "en": "Timor-Leste",
+  "zh": "東帝汶"
+ },
+ "Title": {
+  "en": "Title",
+  "zh": "職稱"
+ },
+ "Today": {
+  "en": "Today",
+  "zh": "今天"
+ },
+ "Togo": {
+  "en": "Togo",
+  "zh": "多哥"
+ },
+ "Tokelau": {
+  "en": "Tokelau",
+  "zh": "托克勞"
+ },
+ "Tonga": {
+  "en": "Tonga",
+  "zh": "東加"
+ },
+ "Travel": {
+  "en": "Travel",
+  "zh": "旅遊"
+ },
+ "Trial": {
+  "en": "Trial",
+  "zh": "試用"
+ },
+ "Trinidad and Tobago": {
+  "en": "Trinidad and Tobago",
+  "zh": "千里達及托巴哥"
+ },
+ "Trust this computer for 30 days": {
+  "en": "Trust this computer for 30 days",
+  "zh": "信任這台電腦 30 天"
+ },
+ "Try Again": {
+  "en": "Try Again",
+  "zh": "再試一次"
+ },
+ "Try again": {
+  "en": "Try again",
+  "zh": "再試一次"
+ },
+ "Turkmenistan": {
+  "en": "Turkmenistan",
+  "zh": "土庫曼"
+ },
+ "Turks and Caicos Islands": {
+  "en": "Turks and Caicos Islands",
+  "zh": "土克凱可群島"
+ },
+ "Tuvalu": {
+  "en": "Tuvalu",
+  "zh": "吐瓦魯"
+ },
+ "Type": {
+  "en": "Type",
+  "zh": "類型"
+ },
+ "UPDATE": {
+  "en": "UPDATE",
+  "zh": "更新"
+ },
+ "URL": {
+  "en": "URL",
+  "zh": "網址"
+ },
+ "UUID": {
+  "en": "UUID",
+  "zh": "UUID"
+ },
+ "Uganda": {
+  "en": "Uganda",
+  "zh": "烏干達"
+ },
+ "Unauthorized": {
+  "en": "Unauthorized",
+  "zh": "未授權"
+ },
+ "United Kingdom": {
+  "en": "United Kingdom",
+  "zh": "英國"
+ },
+ "United States": {
+  "en": "United States",
+  "zh": "美國"
+ },
+ "United States Minor Outlying Islands": {
+  "en": "United States Minor Outlying Islands",
+  "zh": "美國本土外小島嶼"
+ },
+ "Unknown": {
+  "en": "Unknown",
+  "zh": "未知"
+ },
+ "Unknown OpenIDConnect provider": {
+  "en": "Unknown OpenID Connect provider",
+  "zh": "未知的 OpenID Connect 提供者"
+ },
+ "Unknown error.": {
+  "en": "Unknown error.",
+  "zh": "未知的錯誤。"
+ },
+ "Update": {
+  "en": "Update",
+  "zh": "更新"
+ },
+ "Update password?": {
+  "en": "Update password?",
+  "zh": "要更新密碼嗎？"
+ },
+ "Url": {
+  "en": "URL",
+  "zh": "網址"
+ },
+ "Use 802.1X": {
+  "en": "Use 802.1X",
+  "zh": "使用 802.1X"
+ },
+ "Use the same account to log in to both %s and LastPass.": {
+  "en": "Use the same account to log in to both %s and LastPass.",
+  "zh": "使用同一個帳戶登入 %s 和 LastPass。"
+ },
+ "User": {
+  "en": "User",
+  "zh": "使用者"
+ },
+ "Username": {
+  "en": "Username",
+  "zh": "使用者名稱"
+ },
+ "Username History": {
+  "en": "Username History",
+  "zh": "使用者名稱記錄"
+ },
+ "Utah": {
+  "en": "Utah",
+  "zh": "猶他州"
+ },
+ "VAT": {
+  "en": "VAT",
+  "zh": "增值稅"
+ },
+ "Vanuatu": {
+  "en": "Vanuatu",
+  "zh": "萬那杜"
+ },
+ "Vault": {
+  "en": "Vault",
+  "zh": "保管庫"
+ },
+ "Venezuela": {
+  "en": "Venezuela",
+  "zh": "委內瑞拉"
+ },
+ "Verify": {
+  "en": "Verify",
+  "zh": "驗證"
+ },
+ "Vermont": {
+  "en": "Vermont",
+  "zh": "佛蒙特州"
+ },
+ "Version": {
+  "en": "Version",
+  "zh": "版本"
+ },
+ "View details": {
+  "en": "View details",
+  "zh": "檢視詳細資料"
+ },
+ "Virginia": {
+  "en": "Virginia",
+  "zh": "維吉尼亞州"
+ },
+ "Wait until your YubiKey touch-button shines with a steady light": {
+  "en": "Wait until your YubiKey touch-button shines with a steady light",
+  "zh": "請等待 YubiKey 的觸控按鈕亮起穩定的燈光"
+ },
+ "Wallis and Futuna": {
+  "en": "Wallis and Futuna",
+  "zh": "瓦利斯和富圖納"
+ },
+ "Washington": {
+  "en": "Washington",
+  "zh": "華盛頓州"
+ },
+ "Weak": {
+  "en": "Weak",
+  "zh": "弱"
+ },
+ "Website": {
+  "en": "Website",
+  "zh": "網站"
+ },
+ "West Virginia": {
+  "en": "West Virginia",
+  "zh": "西維吉尼亞州"
+ },
+ "What next?": {
+  "en": "What next?",
+  "zh": "接下來呢？"
+ },
+ "Wi-Fi Password": {
+  "en": "Wi-Fi Password",
+  "zh": "Wi-Fi 密碼"
+ },
+ "Windows": {
+  "en": "Windows",
+  "zh": "Windows"
+ },
+ "Wisconsin": {
+  "en": "Wisconsin",
+  "zh": "威斯康辛州"
+ },
+ "Would you like to replace an existing entry you have for %s?": {
+  "en": "Replace existing entry for %s?",
+  "zh": "要取代 %s 的現有項目嗎？"
+ },
+ "Wyoming": {
+  "en": "Wyoming",
+  "zh": "懷俄明州"
+ },
+ "Yes": {
+  "en": "Yes",
+  "zh": "是"
+ },
+ "You can’t edit this folder right now. Someone with authorized access is encrypting it. This should take less than a minute. For now, you can only view and copy items in this folder.": {
+  "en": "You can’t edit this folder right now. Someone with authorized access is encrypting it. This should take less than a minute. For now, you can only view and copy items in this folder.",
+  "zh": "您目前無法編輯此資料夾。有授權存取的人正在加密此資料夾，應該不到一分鐘即可完成。在此期間，您只能檢視及複製此資料夾中的項目。"
+ },
+ "You can’t make changes right now. The ongoing encryption process should take less than a minute. For now, you can only view and copy items in this folder.": {
+  "en": "You can’t make changes right now. The ongoing encryption process should take less than a minute. For now, you can only view and copy items in this folder.",
+  "zh": "您目前無法進行變更。加密作業應該不到一分鐘即可完成。在此期間，您只能檢視及複製此資料夾中的項目。"
+ },
+ "You do not have permission to add items to this folder.": {
+  "en": "You don't have permission to add items to this folder.",
+  "zh": "您沒有權限在此資料夾中新增項目。"
+ },
+ "You may only have one Notes field in a template.": {
+  "en": "A template can have only one Notes field.",
+  "zh": "範本只能有一個附註欄位。"
+ },
+ "Your Shared Folder action failed. Please check your permissions before trying again": {
+  "en": "You might not have permission to do that. Check your permissions and try again.",
+  "zh": "您可能沒有執行此操作的權限。請檢查您的權限後再試一次。"
+ },
+ "Your organization prohibits secure notes.": {
+  "en": "Your organization prohibits secure notes.",
+  "zh": "您的組織禁止使用安全附註。"
+ },
+ "YubiKey authentication failed!": {
+  "en": "YubiKey authentication failed!",
+  "zh": "YubiKey 驗證失敗！"
+ },
+ "Yukon": {
+  "en": "Yukon",
+  "zh": "育空地區"
+ },
+ "ZIP / Postal Code": {
+  "en": "ZIP/Postal Code",
+  "zh": "郵遞區號"
+ },
+ "Zambia": {
+  "en": "Zambia",
+  "zh": "尚比亞"
+ },
+ "Zimbabwe": {
+  "en": "Zimbabwe",
+  "zh": "辛巴威"
+ },
+ "Zip / Postal Code": {
+  "en": "ZIP/Postal Code",
+  "zh": "郵遞區號"
+ },
+ "accepted": {
+  "en": "accepted",
+  "zh": "已接受"
+ },
+ "added": {
+  "en": "added",
+  "zh": "已新增"
+ },
+ "admin": {
+  "en": "admin",
+  "zh": "管理員"
+ },
+ "alert": {
+  "en": "alert",
+  "zh": "警示"
+ },
+ "and": {
+  "en": "and",
+  "zh": "和"
+ },
+ "application": {
+  "en": "application",
+  "zh": "應用程式"
+ },
+ "autologin": {
+  "en": "autologin",
+  "zh": "自動登入"
+ },
+ "average": {
+  "en": "average",
+  "zh": "中等"
+ },
+ "by": {
+  "en": "Set by",
+  "zh": "設定者"
+ },
+ "computer": {
+  "en": "computer",
+  "zh": "電腦"
+ },
+ "day": {
+  "en": "day",
+  "zh": "天"
+ },
+ "days": {
+  "en": "days",
+  "zh": "天"
+ },
+ "declined": {
+  "en": "declined",
+  "zh": "已拒絕"
+ },
+ "delete": {
+  "en": "delete",
+  "zh": "刪除"
+ },
+ "deleted": {
+  "en": "deleted",
+  "zh": "已刪除"
+ },
+ "emailAddress": {
+  "en": "emailAddress",
+  "zh": "emailAddress"
+ },
+ "error": {
+  "en": "error",
+  "zh": "錯誤"
+ },
+ "expand": {
+  "en": "expand",
+  "zh": "展開"
+ },
+ "ext.": {
+  "en": "ext.",
+  "zh": "分機"
+ },
+ "from": {
+  "en": "from",
+  "zh": "來自"
+ },
+ "hide": {
+  "en": "hide",
+  "zh": "隱藏"
+ },
+ "hour": {
+  "en": "hour",
+  "zh": "小時"
+ },
+ "hours": {
+  "en": "hours",
+  "zh": "小時"
+ },
+ "identity": {
+  "en": "identity",
+  "zh": "身分"
+ },
+ "minutes": {
+  "en": "minutes",
+  "zh": "分鐘"
+ },
+ "mobile": {
+  "en": "mobile",
+  "zh": "行動裝置"
+ },
+ "never": {
+  "en": "never",
+  "zh": "永不"
+ },
+ "no": {
+  "en": "no",
+  "zh": "否"
+ },
+ "none": {
+  "en": "none",
+  "zh": "無"
+ },
+ "not now": {
+  "en": "not now",
+  "zh": "現在不要"
+ },
+ "of": {
+  "en": "of",
+  "zh": "/"
+ },
+ "on": {
+  "en": "on",
+  "zh": "於"
+ },
+ "open": {
+  "en": "open",
+  "zh": "開啟"
+ },
+ "or": {
+  "en": "or",
+  "zh": "或"
+ },
+ "password": {
+  "en": "Master Password",
+  "zh": "主密碼"
+ },
+ "removed": {
+  "en": "removed",
+  "zh": "已移除"
+ },
+ "restored": {
+  "en": "restored",
+  "zh": "已還原"
+ },
+ "search": {
+  "en": "search",
+  "zh": "搜尋"
+ },
+ "seconds": {
+  "en": "seconds",
+  "zh": "秒"
+ },
+ "show": {
+  "en": "show",
+  "zh": "顯示"
+ },
+ "site": {
+  "en": "site",
+  "zh": "網站"
+ },
+ "strong": {
+  "en": "strong",
+  "zh": "強"
+ },
+ "to": {
+  "en": "to",
+  "zh": "至"
+ },
+ "unknown": {
+  "en": "unknown",
+  "zh": "未知"
+ },
+ "user": {
+  "en": "user",
+  "zh": "使用者"
+ },
+ "username": {
+  "en": "username",
+  "zh": "使用者名稱"
+ },
+ "weak": {
+  "en": "weak",
+  "zh": "弱"
+ },
+ "year": {
+  "en": "year",
+  "zh": "年"
+ },
+ "yes": {
+  "en": "yes",
+  "zh": "是"
+ }
+}
