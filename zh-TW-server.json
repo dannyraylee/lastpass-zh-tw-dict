@@ -219,6 +219,10 @@
   "en": "%d%% complete",
   "zh": "已完成 %d%%"
  },
+ "%s : Expires on %s": {
+  "en": "%s : Expires on %s",
+  "zh": "%s：到期日 %s"
+ },
  "%s Ask for a master password hint %s (if you have set up a master password hint)": {
   "en": "%s Ask for a master password hint %s (if you've set up a master password hint)",
   "zh": "%s索取主密碼提示%s (如果您設定過主密碼提示)"
@@ -391,9 +395,221 @@
   "en": "Password and confirmation don't match.",
   "zh": "密碼和確認密碼不相符。"
  },
+ "(+01:00) Amsterdam, Berlin, Rome, Vienna, Prague, Brussels": {
+  "en": "(+01:00) Amsterdam, Berlin, Rome, Vienna, Prague, Brussels",
+  "zh": "(+01:00) 阿姆斯特丹、柏林、羅馬、維也納、布拉格、布魯塞爾"
+ },
+ "(+01:00) West Central Africa": {
+  "en": "(+01:00) West Central Africa",
+  "zh": "(+01:00) 中非西部"
+ },
+ "(+02:00) Amman, Athens, Istanbul, Beirut, Cairo, Jerusalem": {
+  "en": "(+02:00) Amman, Athens, Istanbul, Beirut, Cairo, Jerusalem",
+  "zh": "(+02:00) 安曼、雅典、伊斯坦堡、貝魯特、開羅、耶路撒冷"
+ },
+ "(+02:00) Harare, Pretoria": {
+  "en": "(+02:00) Harare, Pretoria",
+  "zh": "(+02:00) 哈拉雷、普利托利亞"
+ },
+ "(+03:00) Baghdad": {
+  "en": "(+03:00) Baghdad",
+  "zh": "(+03:00) 巴格達"
+ },
+ "(+03:00) Kuwait, Riyadh, Nairobi, Moscow, St. Petersburg, Volgograd": {
+  "en": "(+03:00) Kuwait, Riyadh, Nairobi, Moscow, St. Petersburg, Volgograd",
+  "zh": "(+03:00) 科威特、利雅德、奈洛比、莫斯科、聖彼得堡、伏爾加格勒"
+ },
+ "(+03:30) Tehran": {
+  "en": "(+03:30) Tehran",
+  "zh": "(+03:30) 德黑蘭"
+ },
+ "(+04:00) Abu Dhabi, Muscat, Tbilisi, Izhevsk": {
+  "en": "(+04:00) Abu Dhabi, Muscat, Tbilisi, Izhevsk",
+  "zh": "(+04:00) 阿布達比、馬斯開特、提比里斯、伊熱夫斯克"
+ },
+ "(+04:00) Baku, Yerevan": {
+  "en": "(+04:00) Baku, Yerevan",
+  "zh": "(+04:00) 巴庫、葉里溫"
+ },
+ "(+04:30) Kabul": {
+  "en": "(+04:30) Kabul",
+  "zh": "(+04:30) 喀布爾"
+ },
+ "(+05:00) GMT+5": {
+  "en": "(+05:00) GMT+5",
+  "zh": "(+05:00) GMT+5"
+ },
+ "(+05:00) Islamabad, Karachi, Tashkent, Ekaterinburg": {
+  "en": "(+05:00) Islamabad, Karachi, Tashkent, Ekaterinburg",
+  "zh": "(+05:00) 伊斯蘭馬巴德、喀拉蚩、塔什干、葉卡捷琳堡"
+ },
+ "(+05:30) Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura": {
+  "en": "(+05:30) Chennai, Kolkata, Mumbai, New Delhi, Sri Jayawardenepura",
+  "zh": "(+05:30) 清奈、加爾各答、孟買、新德里、斯里賈亞瓦德納普拉"
+ },
+ "(+05:45) Kathmandu": {
+  "en": "(+05:45) Kathmandu",
+  "zh": "(+05:45) 加德滿都"
+ },
+ "(+06:00) Almaty": {
+  "en": "(+06:00) Almaty",
+  "zh": "(+06:00) 阿拉木圖"
+ },
+ "(+06:00) Astana, Dhaka, Novosibirsk": {
+  "en": "(+06:00) Astana, Dhaka, Novosibirsk",
+  "zh": "(+06:00) 阿斯塔納、達卡、新西伯利亞"
+ },
+ "(+06:30) Yangon (Rangoon)": {
+  "en": "(+06:30) Yangon (Rangoon)",
+  "zh": "(+06:30) 仰光"
+ },
+ "(+07:00) Bangkok, Hanoi, Jakarta, Krasnoyarsk": {
+  "en": "(+07:00) Bangkok, Hanoi, Jakarta, Krasnoyarsk",
+  "zh": "(+07:00) 曼谷、河內、雅加達、克拉斯諾亞爾斯克"
+ },
+ "(+08:00) Beijing, Hong Kong, Singapore, Taipei, Irkutsk": {
+  "en": "(+08:00) Beijing, Hong Kong, Singapore, Taipei, Irkutsk",
+  "zh": "(+08:00) 北京、香港、新加坡、台北、伊爾庫次克"
+ },
+ "(+08:00) Ulaan Bataar, Perth": {
+  "en": "(+08:00) Ulaan Bataar, Perth",
+  "zh": "(+08:00) 烏蘭巴托、伯斯"
+ },
+ "(+09:00) Seoul, Osaka, Sapporo, Tokyo, Yakutsk": {
+  "en": "(+09:00) Seoul, Osaka, Sapporo, Tokyo, Yakutsk",
+  "zh": "(+09:00) 首爾、大阪、札幌、東京、雅庫次克"
+ },
+ "(+09:30) Adelaide": {
+  "en": "(+09:30) Adelaide",
+  "zh": "(+09:30) 阿得雷德"
+ },
+ "(+09:30) Darwin": {
+  "en": "(+09:30) Darwin",
+  "zh": "(+09:30) 達爾文"
+ },
+ "(+10:00) Brisbane, Guam, Port Moresby, Vladivostok": {
+  "en": "(+10:00) Brisbane, Guam, Port Moresby, Vladivostok",
+  "zh": "(+10:00) 布里斯本、關島、摩斯比港、海參崴"
+ },
+ "(+10:00) Canberra, Melbourne, Sydney, Hobart": {
+  "en": "(+10:00) Canberra, Melbourne, Sydney, Hobart",
+  "zh": "(+10:00) 坎培拉、墨爾本、雪梨、荷巴特"
+ },
+ "(+11:00) Magadan, Solomon Is., New Caledonia": {
+  "en": "(+11:00) Magadan, Solomon Is., New Caledonia",
+  "zh": "(+11:00) 馬加丹、索羅門群島、新喀里多尼亞"
+ },
+ "(+12:00) Auckland, Wellington": {
+  "en": "(+12:00) Auckland, Wellington",
+  "zh": "(+12:00) 奧克蘭、威靈頓"
+ },
+ "(+12:00) Fiji, Kamchatka, Marshall Is.": {
+  "en": "(+12:00) Fiji, Kamchatka, Marshall Is.",
+  "zh": "(+12:00) 斐濟、堪察加、馬紹爾群島"
+ },
+ "(+13:00) Nuku'alofa": {
+  "en": "(+13:00) Nuku'alofa",
+  "zh": "(+13:00) 努瓜婁發"
+ },
+ "(-01:00) Azores": {
+  "en": "(-01:00) Azores",
+  "zh": "(-01:00) 亞速群島"
+ },
+ "(-01:00) Cape Verde Is.": {
+  "en": "(-01:00) Cape Verde Is.",
+  "zh": "(-01:00) 維德角群島"
+ },
+ "(-02:00) Mid-Atlantic": {
+  "en": "(-02:00) Mid-Atlantic",
+  "zh": "(-02:00) 中大西洋"
+ },
+ "(-02:00) South Georgia": {
+  "en": "(-02:00) South Georgia",
+  "zh": "(-02:00) 南喬治亞"
+ },
+ "(-03:00) Buenos Aires, Georgetown": {
+  "en": "(-03:00) Buenos Aires, Georgetown",
+  "zh": "(-03:00) 布宜諾斯艾利斯、喬治城"
+ },
+ "(-03:00) Greenland, Brasilia, Montevideo": {
+  "en": "(-03:00) Greenland, Brasilia, Montevideo",
+  "zh": "(-03:00) 格陵蘭、巴西利亞、蒙特維多"
+ },
+ "(-03:30) Newfoundland": {
+  "en": "(-03:30) Newfoundland",
+  "zh": "(-03:30) 紐芬蘭"
+ },
+ "(-04:00) Atlantic Time (Canada), Manaus, Santiago": {
+  "en": "(-04:00) Atlantic Time (Canada), Manaus, Santiago",
+  "zh": "(-04:00) 大西洋時間 (加拿大)、瑪瑙斯、聖地牙哥"
+ },
+ "(-04:00) La Paz": {
+  "en": "(-04:00) La Paz",
+  "zh": "(-04:00) 拉巴斯"
+ },
+ "(-04:30) Caracas": {
+  "en": "(-04:30) Caracas",
+  "zh": "(-04:30) 卡拉卡斯"
+ },
+ "(-05:00) Eastern Time (US & Canada)": {
+  "en": "(-05:00) Eastern Time (US & Canada)",
+  "zh": "(-05:00) 東部時間 (美國和加拿大)"
+ },
+ "(-05:00) Indiana, Bogota, Lima, Quito, Rio Branco": {
+  "en": "(-05:00) Indiana, Bogota, Lima, Quito, Rio Branco",
+  "zh": "(-05:00) 印第安納、波哥大、利馬、基多、里約布朗庫"
+ },
+ "(-06:00) Central America, Saskatchewan": {
+  "en": "(-06:00) Central America, Saskatchewan",
+  "zh": "(-06:00) 中美洲、薩斯喀徹溫"
+ },
+ "(-06:00) Central Time (US & Canada), Guadalajara, Mexico City": {
+  "en": "(-06:00) Central Time (US & Canada), Guadalajara, Mexico City",
+  "zh": "(-06:00) 中部時間 (美國和加拿大)、瓜達拉哈拉、墨西哥城"
+ },
+ "(-07:00) Arizona": {
+  "en": "(-07:00) Arizona",
+  "zh": "(-07:00) 亞利桑那"
+ },
+ "(-07:00) Mountain Time (US & Canada)": {
+  "en": "(-07:00) Mountain Time (US & Canada)",
+  "zh": "(-07:00) 山區時間 (美國和加拿大)"
+ },
+ "(-08:00) Pacific Time (US & Canada)": {
+  "en": "(-08:00) Pacific Time (US & Canada)",
+  "zh": "(-08:00) 太平洋時間 (美國和加拿大)"
+ },
+ "(-09:00) Alaska": {
+  "en": "(-09:00) Alaska",
+  "zh": "(-09:00) 阿拉斯加"
+ },
+ "(-10:00) Hawaii": {
+  "en": "(-10:00) Hawaii",
+  "zh": "(-10:00) 夏威夷"
+ },
+ "(-11:00) Midway Island, Samoa": {
+  "en": "(-11:00) Midway Island, Samoa",
+  "zh": "(-11:00) 中途島、薩摩亞"
+ },
+ "(-12:00) International Date Line West": {
+  "en": "(-12:00) International Date Line West",
+  "zh": "(-12:00) 國際換日線以西"
+ },
+ "(00:00) Casablanca, Monrovia, Reykjavik": {
+  "en": "(00:00) Casablanca, Monrovia, Reykjavik",
+  "zh": "(00:00) 卡薩布蘭加、蒙羅維亞、雷克雅維克"
+ },
+ "(00:00) GMT: Dublin, Edinburgh, Lisbon, London": {
+  "en": "(00:00) GMT: Dublin, Edinburgh, Lisbon, London",
+  "zh": "(00:00) GMT：都柏林、愛丁堡、里斯本、倫敦"
+ },
  "(Accepted Share Offers)": {
   "en": "(Accepted Share Offers)",
   "zh": "（已接受的共用邀請）"
+ },
+ "(Learn more)": {
+  "en": "(Learn more)",
+  "zh": "(深入了解)"
  },
  "(New Pending Share Offers)": {
   "en": "(New Pending Share Offers)",
@@ -415,6 +631,14 @@
   "en": ", giving you access to unlimited family sharing, and other easy to use security features. ",
   "zh": "，讓您享有無限制的家庭共用，以及其他簡單易用的安全性功能。 "
  },
+ "1 Day": {
+  "en": "1 Day",
+  "zh": "1 天"
+ },
+ "1 Hour": {
+  "en": "1 Hour",
+  "zh": "1 小時"
+ },
  "1 day left in trial": {
   "en": "1 day left in trial",
   "zh": "試用期還剩 1 天"
@@ -435,6 +659,14 @@
   "en": "1 site in your vault has been breached.",
   "zh": "您保管庫中有 1 個網站曾遭入侵。"
  },
+ "10 Minutes": {
+  "en": "10 Minutes",
+  "zh": "10 分鐘"
+ },
+ "12 Hours": {
+  "en": "12 Hours",
+  "zh": "12 小時"
+ },
  "12 hours": {
   "en": "12 hours",
   "zh": "12 小時"
@@ -443,9 +675,25 @@
   "en": "14 days",
   "zh": "14 天"
  },
+ "15 Minutes": {
+  "en": "15 Minutes",
+  "zh": "15 分鐘"
+ },
  "15 minutes": {
   "en": "15 minutes",
   "zh": "15 分鐘"
+ },
+ "2 Days": {
+  "en": "2 Days",
+  "zh": "2 天"
+ },
+ "2 Hours": {
+  "en": "2 Hours",
+  "zh": "2 小時"
+ },
+ "2 Weeks": {
+  "en": "2 Weeks",
+  "zh": "2 週"
  },
  "21 days": {
   "en": "21 days",
@@ -467,6 +715,10 @@
   "en": "3 hours",
   "zh": "3 小時"
  },
+ "30 Minutes": {
+  "en": "30 Minutes",
+  "zh": "30 分鐘"
+ },
  "30 days": {
   "en": "30 days",
   "zh": "30 天"
@@ -479,13 +731,29 @@
   "en": "30 seconds",
   "zh": "30 秒"
  },
+ "4 Hours": {
+  "en": "4 Hours",
+  "zh": "4 小時"
+ },
  "48 hours": {
   "en": "48 hours",
   "zh": "48 小時"
  },
+ "5 Days": {
+  "en": "5 Days",
+  "zh": "5 天"
+ },
+ "5 Minutes": {
+  "en": "5 Minutes",
+  "zh": "5 分鐘"
+ },
  "5 minutes": {
   "en": "5 minutes",
   "zh": "5 分鐘"
+ },
+ "6 Hours": {
+  "en": "6 Hours",
+  "zh": "6 小時"
  },
  "6 Premium-level licences": {
   "en": "6 Premium-level licences",
@@ -502,6 +770,10 @@
  "7 days": {
   "en": "7 days",
   "zh": "7 天"
+ },
+ "8 Hours": {
+  "en": "8 Hours",
+  "zh": "8 小時"
  },
  "8 hours": {
   "en": "8 hours",
@@ -562,6 +834,10 @@
  "A server error occurred while processing your request.": {
   "en": "Sad but true, we got a server error. Please try again.",
   "zh": "很遺憾，伺服器發生錯誤，請再試一次。"
+ },
+ "A value above 1 000 000 iterations might slow things down or crash your vault. Stay close to the recommended setting to stay safe and speedy on standard devices.": {
+  "en": "A value above 1 000 000 iterations might slow things down or crash your vault. Stay close to the recommended setting to stay safe and speedy on standard devices.",
+  "zh": "超過 1 000 000 次反覆運算可能會讓保管庫變慢或當掉。請盡量接近建議值，在一般裝置上兼顧安全與速度。"
  },
  "A week ago": {
   "en": "A week ago",
@@ -625,6 +901,10 @@
  },
  "Access a Site's Password": {
   "en": "Access a Site's Password",
+  "zh": "存取網站的密碼"
+ },
+ "Access a Site's password": {
+  "en": "Access a Site's password",
   "zh": "存取網站的密碼"
  },
  "Access an Identity": {
@@ -706,6 +986,10 @@
  "Account ineligible for emergency access": {
   "en": "The listed addresses may not be associated with a LastPass account, or their LastPass account type makes them ineligible for this action.",
   "zh": "列出的地址可能沒有對應的 LastPass 帳戶，或其 LastPass 帳戶類型不符合此動作的資格。"
+ },
+ "Account information": {
+  "en": "Account information",
+  "zh": "帳戶資訊"
  },
  "Account linked": {
   "en": "Account linked",
@@ -963,6 +1247,10 @@
   "en": "Add another custom field",
   "zh": "再新增一個自訂欄位"
  },
+ "Add another layer of protection by requiring a second login step. Keep the bad guys out, even if they steal your password through malicious software.": {
+  "en": "Add an extra layer of protection to your LastPass account. Once enabled, your login procedure changes: After entering your master password, you'll be required to verify your identity using a mobile authenticator app or similar tool.",
+  "zh": "為您的 LastPass 帳戶多加一層保護。啟用後，登入程序會改變：輸入主密碼後，還需要用行動驗證器應用程式或類似工具驗證身分。"
+ },
  "Add as a subfolder under:": {
   "en": "Add as a subfolder here:",
   "zh": "在這裡新增為子資料夾："
@@ -1107,6 +1395,10 @@
   "en": "Advanced autofill settings have been moved to Advanced Options %sAutofill settings.%s We gave it a new look to help you navigate your settings easier.",
   "zh": "進階自動填入設定已移至「進階選項」%s自動填入設定%s。我們換了新外觀，讓您更容易瀏覽設定。"
  },
+ "Advanced autofill settings have been moved to Advanced Options >": {
+  "en": "Advanced autofill settings have been moved to Advanced Options >",
+  "zh": "進階自動填入設定已移到「進階選項 >"
+ },
  "Advanced%0%0Reporting": {
   "en": "Advanced%0%0Reporting",
   "zh": "進階%0%0報告"
@@ -1118,6 +1410,10 @@
  "After download, simply login to your account again and use LastPass in Safari as you always have.": {
   "en": "After download, log in to your account and use LastPass in Safari as before.",
   "zh": "下載後，請登入您的帳戶，像以前一樣在 Safari 中使用 LastPass。"
+ },
+ "After login from a new location, based on IP address, you'll be logged out of existing sessions in most cases (your browser session must be open and polling enabled). If you close your browser session without logging out of LastPass, this feature still protects you. For example, your browser is closed at work, and you log in from home. You return to work and are forced to log in again.": {
+  "en": "After login from a new location, based on IP address, you'll be logged out of existing sessions in most cases (your browser session must be open and polling enabled). If you close your browser session without logging out of LastPass, this feature still protects you. For example, your browser is closed at work, and you log in from home. You return to work and are forced to log in again.",
+  "zh": "從新的位置 (依 IP 位址判斷) 登入後，在大多數情況下您現有的工作階段會被登出 (瀏覽器工作階段必須開著且已啟用輪詢)。即使您關閉瀏覽器時沒有登出 LastPass，這項功能仍會保護您。例如：您在公司關了瀏覽器，然後在家登入；回到公司時就必須重新登入。"
  },
  "Agent Name": {
   "en": "Agent Name",
@@ -1226,6 +1522,14 @@
  "Allow reverting LastPass master password changes": {
   "en": "Allow master password changes to be reverted",
   "zh": "允許還原主密碼變更"
+ },
+ "Allow yourself to undo changes you made to your master password within the past 30 days. For more information, see": {
+  "en": "Allow yourself to undo changes you made to your master password within the past 30 days. For more information, see",
+  "zh": "允許您復原過去 30 天內對主密碼所做的變更。如需詳細資訊，請參閱"
+ },
+ "Allowed": {
+  "en": "Allowed",
+  "zh": "已允許"
  },
  "Almaty": {
   "en": "Almaty",
@@ -1362,6 +1666,10 @@
  "Anguilla": {
   "en": "Anguilla",
   "zh": "安吉拉"
+ },
+ "Anonymous data is aggregated and is not shared with any 3rd parties.": {
+  "en": "Anonymous data is aggregated but not shared with third parties.",
+  "zh": "匿名資料會彙整，但不會與第三方共用。"
  },
  "Antarctica": {
   "en": "Antarctica",
@@ -1835,6 +2143,10 @@
   "en": "As requested, we're removing you from LastPass Families. %s Stay on this page while we finish the job.",
   "zh": "依照您的要求，我們正在將您從 LastPass 家庭方案移除。%s 請留在此頁面，直到我們完成作業。"
  },
+ "Ascension Island": {
+  "en": "Ascension Island",
+  "zh": "亞森欣島"
+ },
  "Ask for a master password hint (if you have set up a master password hint)": {
   "en": "Ask for a master password hint (if you've set up a master password hint)",
   "zh": "索取主密碼提示 (如果您設定過主密碼提示)"
@@ -1935,6 +2247,10 @@
   "en": "Auto-Change Passwords",
   "zh": "自動變更密碼"
  },
+ "Auto-logoff": {
+  "en": "Auto-logoff",
+  "zh": "自動登出"
+ },
  "AutoLogin": {
   "en": "Autologin",
   "zh": "自動登入"
@@ -1947,9 +2263,25 @@
   "en": "Autofill settings",
   "zh": "自動填入設定"
  },
+ "Autofill settings.": {
+  "en": "Autofill settings.",
+  "zh": "自動填入設定」。"
+ },
+ "Automatic logout timeout for the LastPass bookmarklets. Timeout is based on last login or last bookmarklet usage.": {
+  "en": "Automatically log out of LastPass bookmarklets after the selected period of time since login or last bookmarklet usage.",
+  "zh": "從登入或上次使用書籤小工具起經過選取的時間後，自動登出 LastPass 書籤小工具。"
+ },
+ "Automatically end all LastPass.com and browser extension sessions after the selected period of time.": {
+  "en": "Automatically end all LastPass.com and browser extension sessions after the selected period of time.",
+  "zh": "經過選取的時間後，自動結束所有 LastPass.com 和瀏覽器擴充套件的工作階段。"
+ },
  "Automatically logoff devices when logging in from a different device": {
   "en": "Log out of other devices upon login from a different device",
   "zh": "從其他裝置登入時，登出其他裝置"
+ },
+ "Automatically logoff other devices when logging in from a different device.": {
+  "en": "Log out of other devices upon login from a different device.",
+  "zh": "從其他裝置登入時，登出其他裝置。"
  },
  "Available Items": {
   "en": "Available Items",
@@ -2111,6 +2443,10 @@
   "en": "Bolivia",
   "zh": "玻利維亞"
  },
+ "Bonaire, Sint Eustatius and Saba": {
+  "en": "Bonaire, Sint Eustatius and Saba",
+  "zh": "波奈、聖佑達修斯及沙巴"
+ },
  "Bookmarklet Auto-Logoff": {
   "en": "Bookmarklet Auto-Logoff",
   "zh": "書籤小工具自動登出"
@@ -2121,6 +2457,10 @@
  },
  "Bosnia and Herzegovina": {
   "en": "Bosnia and Herzegovina",
+  "zh": "波士尼亞與赫塞哥維納"
+ },
+ "Bosnia and Herzegowina": {
+  "en": "Bosnia and Herzegowina",
   "zh": "波士尼亞與赫塞哥維納"
  },
  "Botswana": {
@@ -2467,6 +2807,10 @@
   "en": "Cocos (Keeling) Islands",
   "zh": "科科斯（基林）群島"
  },
+ "Cocos (keeling) Islands": {
+  "en": "Cocos (keeling) Islands",
+  "zh": "科克斯 (基林) 群島"
+ },
  "Collapse": {
   "en": "Collapse",
   "zh": "收合"
@@ -2563,6 +2907,10 @@
   "en": "Congo",
   "zh": "剛果"
  },
+ "Congo the Democratic Republic Of The": {
+  "en": "Congo the Democratic Republic Of The",
+  "zh": "剛果民主共和國"
+ },
  "Congo, the Democratic Republic of The": {
   "en": "Congo, the Democratic Republic of The",
   "zh": "剛果民主共和國"
@@ -2626,6 +2974,14 @@
  "Control characters found in selected filename, will not process it": {
   "en": "We can't process this file due to control/non-printing characters in its name",
   "zh": "檔名中含有控制字元/非列印字元，無法處理此檔案"
+ },
+ "Control how many times your credentials are hashed using": {
+  "en": "Control how many times your credentials are hashed using",
+  "zh": "控制您的憑證在傳送到 LastPass 伺服器之前，使用"
+ },
+ "Control what smartphones and tablets may access your LastPass account. By default, a unique identifier (UUID) is created to track each device, but you can edit the device label at any time.": {
+  "en": "Control phones and tablets that have access to your LastPass account. Click to edit the unique identifier (UUID) of any device. Delete any device to revoke access.",
+  "zh": "管理可以存取您 LastPass 帳戶的手機和平板。按一下即可編輯任一裝置的唯一識別碼 (UUID)；刪除裝置即可撤銷其存取權。"
  },
  "Control your digital life": {
   "en": "Control your digital life",
@@ -2899,6 +3255,10 @@
   "en": "Cuba",
   "zh": "古巴"
  },
+ "Curacao": {
+  "en": "Curacao",
+  "zh": "古拉索"
+ },
  "Custom Fields": {
   "en": "Custom Fields",
   "zh": "自訂欄位"
@@ -3083,6 +3443,10 @@
   "en": "Delete Mobile Device?",
   "zh": "要刪除行動裝置嗎？"
  },
+ "Delete My Account": {
+  "en": "Delete My Account",
+  "zh": "刪除我的帳戶"
+ },
  "Delete Never URL?": {
   "en": "Delete Never URL?",
   "zh": "要刪除「永不使用」URL 嗎？"
@@ -3191,6 +3555,14 @@
   "en": "Destroy all sessions",
   "zh": "終止所有工作階段"
  },
+ "Destroy Sessions": {
+  "en": "Destroy Sessions",
+  "zh": "終止工作階段"
+ },
+ "Destroys some or all active sessions for devices you have logged into your LastPass vault.": {
+  "en": "Destroys some or all active sessions on devices where you are currently logged in to your LastPass vault.",
+  "zh": "終止您目前登入 LastPass 保管庫的裝置上部分或全部的有效工作階段。"
+ },
  "Device Manager": {
   "en": "Device Manager",
   "zh": "裝置管理員"
@@ -3202,6 +3574,10 @@
  "Disable 2nd Factor": {
   "en": "Disable Second Factor",
   "zh": "停用第二要素"
+ },
+ "Disable Auto-logoff": {
+  "en": "Disable Auto-logoff",
+  "zh": "停用自動登出"
  },
  "Disable AutoFill": {
   "en": "Disable Autofill",
@@ -3219,6 +3595,18 @@
   "en": "Disable User",
   "zh": "停用使用者"
  },
+ "Disable multifactor trust expiration": {
+  "en": "Disable Multifactor Trust Expiration",
+  "zh": "停用多重要素驗證信任期限"
+ },
+ "Disable passwordless": {
+  "en": "Disable passwordless",
+  "zh": "停用免密碼登入"
+ },
+ "Disable passwordless on selected devices": {
+  "en": "Disable passwordless on selected devices",
+  "zh": "停用選取裝置的免密碼登入"
+ },
  "Disabled": {
   "en": "Disabled",
   "zh": "已停用"
@@ -3226,6 +3614,10 @@
  "Disallow logins from Tor networks": {
   "en": "Prohibit logins from Tor networks",
   "zh": "禁止從 Tor 網路登入"
+ },
+ "Disallow logins from Tor networks.": {
+  "en": "Prohibit logins from Tor networks.",
+  "zh": "禁止從 Tor 網路登入。"
  },
  "Discard": {
   "en": "Discard",
@@ -3246,6 +3638,10 @@
  "Djibouti": {
   "en": "Djibouti",
   "zh": "吉布地"
+ },
+ "Do not logoff other devices originating from the same IP.": {
+  "en": "Don't logoff other devices originating from the same IP.",
+  "zh": "不登出來自相同 IP 的其他裝置。"
  },
  "Do not re-prompt for": {
   "en": "Do not re-prompt for",
@@ -3386,6 +3782,10 @@
  "Each family member has their own personal vault, plus the ability to create shared folders amongst the family.": {
   "en": "Each family member has their own personal vault, plus the ability to create shared folders amongst the family.",
   "zh": "每位家庭成員都有自己的個人保管庫，還能在家人之間建立共用資料夾。"
+ },
+ "East Timor": {
+  "en": "East Timor",
+  "zh": "東帝汶"
  },
  "Eastern Time (US & Canada)": {
   "en": "Eastern Time (US & Canada)",
@@ -3599,6 +3999,10 @@
   "en": "Email Address:",
   "zh": "電子郵件地址："
  },
+ "Email Subscriptions": {
+  "en": "Email Subscriptions",
+  "zh": "電子郵件訂閱"
+ },
  "Email account": {
   "en": "Email account",
   "zh": "電子郵件帳戶"
@@ -3678,6 +4082,10 @@
  "Enable": {
   "en": "Enable",
   "zh": "啟用"
+ },
+ "Enable App Attribution": {
+  "en": "Enable App Attribution",
+  "zh": "啟用應用程式歸因"
  },
  "Enable Credit Monitoring": {
   "en": "Enable Credit Monitoring",
@@ -3891,6 +4299,10 @@
   "en": "Ethiopia",
   "zh": "衣索比亞"
  },
+ "European Union": {
+  "en": "European Union",
+  "zh": "歐盟"
+ },
  "Evening Number": {
   "en": "Evening Number",
   "zh": "晚間電話號碼"
@@ -4014,6 +4426,10 @@
  "Falkland Islands (Malvinas)": {
   "en": "Falkland Islands (Malvinas)",
   "zh": "福克蘭群島 (馬爾維納斯)"
+ },
+ "Falkland Islands (malvinas)": {
+  "en": "Falkland Islands (malvinas)",
+  "zh": "福克蘭群島"
  },
  "Families": {
   "en": "Families",
@@ -4267,6 +4683,10 @@
   "en": "Force password change on next login",
   "zh": "下次登入時強制變更密碼"
  },
+ "Forced by company policy.": {
+  "en": "Forced by company policy.",
+  "zh": "已由公司政策強制設定。"
+ },
  "Forgot your password?": {
   "en": "Forgot your master password?",
   "zh": "忘記主密碼了嗎？"
@@ -4302,6 +4722,10 @@
  "France": {
   "en": "France",
   "zh": "法國"
+ },
+ "France Metro": {
+  "en": "France Metro",
+  "zh": "法國本土"
  },
  "Free User": {
   "en": "Free User",
@@ -4454,6 +4878,10 @@
  "Generates one time verification codes or sends push notifications to your smart phone.": {
   "en": "Sends push notifications or one-time verification codes to your phone.",
   "zh": "傳送推播通知或一次性驗證碼到您的手機。"
+ },
+ "Generates one-time verification codes on your phone. Can also be used with Okta Verify.": {
+  "en": "Generates one-time verification codes on your phone. Can also be used with Okta Verify.",
+  "zh": "在您的手機上產生一次性驗證碼，也可搭配 Okta Verify 使用。"
  },
  "Generating Sharing Keys": {
   "en": "Generating Sharing Keys",
@@ -4699,6 +5127,10 @@
   "en": "Guinea-Bissau",
   "zh": "幾內亞比索"
  },
+ "Guinea-bissau": {
+  "en": "Guinea-bissau",
+  "zh": "幾內亞比索"
+ },
  "Guyana": {
   "en": "Guyana",
   "zh": "蓋亞那"
@@ -4751,6 +5183,10 @@
   "en": "Heard Island and McDonald Islands",
   "zh": "赫德島和麥克唐納群島"
  },
+ "Heard and Mc Donald Islands": {
+  "en": "Heard and Mc Donald Islands",
+  "zh": "赫德島及麥唐納群島"
+ },
  "Height": {
   "en": "Height",
   "zh": "身高"
@@ -4790,6 +5226,10 @@
  "Here’s what you get with LastPass Premium!": {
   "en": "Here’s what you get with LastPass Premium!",
   "zh": "以下是 LastPass 進階版提供的功能！"
+ },
+ "Hide Advanced Settings": {
+  "en": "Hide Advanced Settings",
+  "zh": "隱藏進階設定"
  },
  "Hide All": {
   "en": "Hide All",
@@ -4834,6 +5274,10 @@
  "Holy See (Vatican City State)": {
   "en": "Holy See (Vatican City State)",
   "zh": "教廷 (梵蒂岡城國)"
+ },
+ "Holy See (vatican City State)": {
+  "en": "Holy See (vatican City State)",
+  "zh": "教廷 (梵蒂岡)"
  },
  "Honduras": {
   "en": "Honduras",
@@ -5002,6 +5446,10 @@
  "If you are confident you are entering valid information, contact your LastPass administrator or LastPass support. One-time login may be restricted by your organization.": {
   "en": "If you are confident you are entering valid information, contact your LastPass administrator or LastPass support. One-time login may be restricted by your organization.",
   "zh": "如果您確定輸入的資訊正確，請聯絡您的 LastPass 管理員或 LastPass 支援。您的組織可能限制了一次性登入。"
+ },
+ "If you are having trouble receiving email sent by LastPass, send yourself a test email.": {
+  "en": "Your account email serves as your LastPass username. Together with your master password, use it to log in to LastPass. Tip: Send yourself a test email to make sure you're receiving email from LastPass.",
+  "zh": "您的帳戶電子郵件就是您的 LastPass 使用者名稱，搭配主密碼即可登入 LastPass。提示：寄一封測試電子郵件給自己，確認您收得到 LastPass 的郵件。"
  },
  "If you assign this role, it will share %d accounts.\n\nAre you sure you want to continue?": {
   "en": "By assigning this role, you will share %d accounts.\n\nContinue?",
@@ -5411,6 +5859,10 @@
   "en": "Iran (Islamic Republic Of)",
   "zh": "伊朗 (伊斯蘭共和國)"
  },
+ "Iran (islamic Republic Of)": {
+  "en": "Iran (islamic Republic Of)",
+  "zh": "伊朗"
+ },
  "Iraq": {
   "en": "Iraq",
   "zh": "伊拉克"
@@ -5422,6 +5874,10 @@
  "Islamabad, Karachi, Tashkent, Ekaterinburg": {
   "en": "Islamabad, Karachi, Tashkent, Ekaterinburg",
   "zh": "伊斯蘭馬巴德、喀拉蚩、塔什干、葉卡捷琳堡"
+ },
+ "Isle Of Man": {
+  "en": "Isle Of Man",
+  "zh": "曼島"
  },
  "Isle of Man": {
   "en": "Isle of Man",
@@ -5595,6 +6051,10 @@
   "en": "Keep an Eye on Your Credit Report",
   "zh": "留意您的信用報告"
  },
+ "Keep session active until the server-issued session expires.": {
+  "en": "Keep session active until the server-issued session expires.",
+  "zh": "讓工作階段保持有效，直到伺服器發出的工作階段到期。"
+ },
  "Keep track of all the odds and ends of your digital life with secure notes. Store memberships, Wi-Fi passwords, credit card numbers, and more. They're always there, when and where you need them.": {
   "en": "Keep track of all the odds and ends of your online life with secure notes. Store memberships, Wi-Fi passwords, credit card numbers, and more. The info will always be there, when and where you need it.",
   "zh": "用安全附註記錄網路生活中的大小事，儲存會員資格、Wi-Fi 密碼、信用卡號碼等。無論何時何地需要，資訊都在。"
@@ -5602,6 +6062,10 @@
  "Keep track of login and form fill history": {
   "en": "Keep track of login and form fill history",
   "zh": "記錄登入和表單填寫歷程"
+ },
+ "Keep track of login and form fill history.": {
+  "en": "Keep track of login and form fill history.",
+  "zh": "記錄登入和表單填寫歷程。"
  },
  "Keep your account secure—create a %sstrong%s master password.": {
   "en": "Keep your account secure—create a %sstrong%s master password.",
@@ -5622,6 +6086,10 @@
  "Keep your notes secure, always.": {
   "en": "Keep your notes secure, always.",
   "zh": "讓您的附註永遠安全。"
+ },
+ "Keeps a history of your website logins and form fills. Disabling will prevent history and recently used sites from working.": {
+  "en": "Maintain a history of your website logins and form fills. When disabled, History and Recent Sites will be empty on the vault and extension, respectively.",
+  "zh": "保留您登入網站和填寫表單的歷程。停用後，保管庫的「歷程」和擴充套件的「最近使用的網站」都會是空的。"
  },
  "Kentucky": {
   "en": "Kentucky",
@@ -5647,6 +6115,14 @@
   "en": "Kiribati",
   "zh": "吉里巴斯"
  },
+ "Korea Democratic People's Republic Of": {
+  "en": "Korea Democratic People's Republic Of",
+  "zh": "北韓"
+ },
+ "Korea Republic Of": {
+  "en": "Korea Republic Of",
+  "zh": "南韓"
+ },
  "Korea, Democratic People's Republic Of": {
   "en": "Korea, Democratic People's Republic Of",
   "zh": "朝鮮民主主義人民共和國"
@@ -5658,6 +6134,10 @@
  "Korean": {
   "en": "Korean",
   "zh": "韓文"
+ },
+ "Kosovo": {
+  "en": "Kosovo",
+  "zh": "科索沃"
  },
  "Kuwait": {
   "en": "Kuwait",
@@ -5803,6 +6283,14 @@
   "en": "LastPass newsletters, tips, and stories",
   "zh": "LastPass 電子報、秘訣和故事"
  },
+ "LastPass now expires trusted devices after 30 days, you are required to supply your second factor to login.": {
+  "en": "Though not recommended, you can turn off the 30-day limit for devices you trust. Your trusted devices remain trusted indefinitely.",
+  "zh": "雖然不建議，但您可以關閉信任裝置的 30 天限制，讓信任的裝置永久保持信任。"
+ },
+ "LastPass now requires you to verify your email if you are logging into both a device that is unknown and if location is also unknown.": {
+  "en": "LastPass requires you to verify your email when it detects a login from an unknown device and location.",
+  "zh": "LastPass 偵測到從不明裝置和位置登入時，會要求您驗證電子郵件。"
+ },
  "LastPass promotions and giveaways": {
   "en": "LastPass promotions and giveaways",
   "zh": "LastPass 促銷和贈品活動"
@@ -5858,6 +6346,10 @@
  "Learn about device type switching": {
   "en": "Learn about device type switching",
   "zh": "了解裝置類型切換"
+ },
+ "Learn about password iterations": {
+  "en": "Learn about password iterations",
+  "zh": "了解密碼反覆運算次數"
  },
  "Learn about switching your device type": {
   "en": "Learn about switching your device type",
@@ -5955,6 +6447,10 @@
   "en": "Linked personal account",
   "zh": "連結的個人帳戶"
  },
+ "Links": {
+  "en": "Links",
+  "zh": "連結"
+ },
  "List View": {
   "en": "List View",
   "zh": "清單檢視"
@@ -5991,6 +6487,10 @@
   "en": "Log back in to see the changes.",
   "zh": "請重新登入以查看變更。"
  },
+ "Log in or add a site using a passkey": {
+  "en": "Log in or add a site using a passkey",
+  "zh": "使用通行金鑰登入或新增網站"
+ },
  "Log into a Site": {
   "en": "Log in to a site",
   "zh": "登入網站"
@@ -6002,6 +6502,10 @@
  "Login": {
   "en": "Log in",
   "zh": "登入"
+ },
+ "Login Credentials": {
+  "en": "Login Credentials",
+  "zh": "登入憑證"
  },
  "Login Failed": {
   "en": "Login Failed",
@@ -6030,6 +6534,14 @@
  "Macao": {
   "en": "Macao",
   "zh": "澳門"
+ },
+ "Macau": {
+  "en": "Macau",
+  "zh": "澳門"
+ },
+ "Macedonia": {
+  "en": "Macedonia",
+  "zh": "馬其頓"
  },
  "Macedonia, the Former Yugoslav Republic Of": {
   "en": "North Macedonia, Republic of",
@@ -6155,6 +6667,10 @@
   "en": "Manage recipients",
   "zh": "管理收件者"
  },
+ "Manage your LastPass account information, privacy, email subscriptions, and security settings.": {
+  "en": "Manage your LastPass account information, privacy, email subscriptions, and security settings.",
+  "zh": "管理您的 LastPass 帳戶資訊、隱私權、電子郵件訂閱和安全性設定。"
+ },
  "Management": {
   "en": "Management",
   "zh": "管理"
@@ -6222,6 +6738,10 @@
  "Maximize": {
   "en": "Maximize",
   "zh": "最大化"
+ },
+ "Maximum value: 1 000 000 000": {
+  "en": "Maximum value: 1 000 000 000",
+  "zh": "最大值：1 000 000 000"
  },
  "May": {
   "en": "May",
@@ -6307,6 +6827,10 @@
   "en": "Michigan",
   "zh": "密西根州"
  },
+ "Micronesia Federated States Of": {
+  "en": "Micronesia Federated States Of",
+  "zh": "密克羅尼西亞聯邦"
+ },
  "Micronesia, Federated States Of": {
   "en": "Micronesia, Federated States Of",
   "zh": "密克羅尼西亞聯邦"
@@ -6374,6 +6898,10 @@
  "Mobile Phone": {
   "en": "Mobile Phone",
   "zh": "手機"
+ },
+ "Moldova Republic Of": {
+  "en": "Moldova Republic Of",
+  "zh": "摩爾多瓦"
  },
  "Moldova, Republic Of": {
   "en": "Moldova, Republic Of",
@@ -6495,6 +7023,10 @@
   "en": "Multifactor Option",
   "zh": "多重要素驗證選項"
  },
+ "Multifactor Options": {
+  "en": "Multifactor Options",
+  "zh": "多重要素驗證選項"
+ },
  "Multifactor authentication failed!": {
   "en": "Multifactor authentication failed!",
   "zh": "多重要素驗證失敗！"
@@ -6502,6 +7034,10 @@
  "Must Verify": {
   "en": "Must Verify",
   "zh": "必須驗證"
+ },
+ "Must have 'polling' enabled in the plugins to be effective.": {
+  "en": "Must have 'polling' enabled in the extensions to be effective.",
+  "zh": "必須在擴充套件中啟用「輪詢」才會生效。"
  },
  "Must have at least 1 lowercase letter": {
   "en": "Must have at least 1 lowercase letter",
@@ -6791,6 +7327,10 @@
   "en": "Non-Administrator",
   "zh": "非管理員"
  },
+ "Non-spec Asia Pas Location": {
+  "en": "Non-spec Asia Pas Location",
+  "zh": "亞太地區 (未指定)"
+ },
  "None available": {
   "en": "None available",
   "zh": "沒有可用的"
@@ -6995,6 +7535,10 @@
   "en": "One-to-many sharing",
   "zh": "一對多共用"
  },
+ "Only allow login from selected countries:": {
+  "en": "Only allow login from selected countries:",
+  "zh": "只允許從選取的國家/地區登入："
+ },
  "Only send me critical security alerts": {
   "en": "Only send me critical security alerts",
   "zh": "只寄送重大安全性警示給我"
@@ -7111,6 +7655,10 @@
   "en": "Palestinian Territories",
   "zh": "巴勒斯坦領土"
  },
+ "Palestinian Territory": {
+  "en": "Palestinian Territory",
+  "zh": "巴勒斯坦領土"
+ },
  "Panama": {
   "en": "Panama",
   "zh": "巴拿馬"
@@ -7214,6 +7762,18 @@
  "Password:": {
   "en": "Site password:",
   "zh": "網站密碼："
+ },
+ "Passwordless Options": {
+  "en": "Passwordless Options",
+  "zh": "免密碼選項"
+ },
+ "Passwordless enabled devices": {
+  "en": "Passwordless enabled devices",
+  "zh": "已啟用免密碼登入的裝置"
+ },
+ "Passwordless login on this device": {
+  "en": "Passwordless login on this device",
+  "zh": "此裝置的免密碼登入"
  },
  "Passwords": {
   "en": "Passwords",
@@ -7511,6 +8071,10 @@
   "en": "LastPass already considers the following domains to be equivalent:",
   "zh": "LastPass 已將下列網域視為對等："
  },
+ "Please note that turning the re-prompt feature on makes it more difficult to access LastPass, however will not prevent an attacker to access LastPass secrets on an unlocked computer. For maximum security, we recommend logging out of LastPass every time you leave the computer.": {
+  "en": "This protects you from attackers or anyone else using your unlocked computer.",
+  "zh": "這可以防止攻擊者或其他人使用您未鎖定的電腦。"
+ },
  "Please press the 'Increase Iterations' button to change your password iterations.": {
   "en": "Click 'Increase Iterations' to change how many times your credentials are hashed using PBKDF2 before being sent to LastPass servers.",
   "zh": "按一下「增加反覆運算次數」，即可變更您的憑證在傳送到 LastPass 伺服器之前，以 PBKDF2 雜湊的次數。"
@@ -7655,6 +8219,10 @@
   "en": "Preparing your data...",
   "zh": "正在準備您的資料…"
  },
+ "Prevents logins from known Tor entry points. See": {
+  "en": "Prevents logins from known Tor entry points. See",
+  "zh": "阻擋從已知 Tor 入口節點登入。請參閱"
+ },
  "Price": {
   "en": "Price",
   "zh": "價格"
@@ -7678,6 +8246,10 @@
  "Private Key": {
   "en": "Private Key",
   "zh": "私密金鑰"
+ },
+ "Pro tip: This is also where you set up YubiKey for LastPass mobile app verification.": {
+  "en": "Pro tip: This is also where you set up YubiKey for LastPass mobile app verification.",
+  "zh": "小技巧：您也是在這裡設定 YubiKey，用於 LastPass 行動應用程式驗證。"
  },
  "Product": {
   "en": "Product",
@@ -7823,6 +8395,10 @@
   "en": "Re-invite",
   "zh": "重新邀請"
  },
+ "Re-prompt for Master Password": {
+  "en": "Re-prompt for Master Password",
+  "zh": "重新提示輸入主密碼"
+ },
  "Re-prompt for your LastPass master password before you:": {
   "en": "Re-prompt for your LastPass master password:",
   "zh": "重新提示輸入您的 LastPass 主密碼："
@@ -7874,6 +8450,34 @@
  "Recipient Email Addresses:": {
   "en": "Recipient Email Addresses:",
   "zh": "收件者電子郵件地址："
+ },
+ "Recommended value : 2 Weeks": {
+  "en": "Recommended: 2 weeks",
+  "zh": "建議：2 週"
+ },
+ "Recommended value : CHECKED": {
+  "en": "Recommended: SELECTED",
+  "zh": "建議：勾選"
+ },
+ "Recommended value : CHECKED for Access an Identity": {
+  "en": "Recommended: SELECTED for 'Access an Identity'",
+  "zh": "建議：勾選「存取身分」"
+ },
+ "Recommended value : ENABLED": {
+  "en": "Recommended: ENABLED",
+  "zh": "建議：啟用"
+ },
+ "Recommended value : UNCHECKED": {
+  "en": "Recommended: NOT SELECTED",
+  "zh": "建議：不勾選"
+ },
+ "Recommended: 600000": {
+  "en": "Recommended: 600000",
+  "zh": "建議：600000"
+ },
+ "Recovery Phone": {
+  "en": "Recovery Phone",
+  "zh": "復原用電話"
  },
  "Refer a Friend invitations": {
   "en": "Refer a Friend invitations",
@@ -7930,6 +8534,10 @@
  "Remove Linked Personal Account": {
   "en": "Remove Linked Personal Account",
   "zh": "移除連結的個人帳戶"
+ },
+ "Remove Phone": {
+  "en": "Remove Phone",
+  "zh": "移除電話"
  },
  "Remove Site from Favorites": {
   "en": "Remove Site from Favorites",
@@ -8107,6 +8715,10 @@
   "en": "Restore",
   "zh": "還原"
  },
+ "Restricts logins to LastPass to a chosen set of countries based on IP address.": {
+  "en": "Only allow login to LastPass from the selected countries, based on IP address.",
+  "zh": "依 IP 位址，只允許從選取的國家/地區登入 LastPass。"
+ },
  "Reunion": {
   "en": "Reunion",
   "zh": "留尼旺"
@@ -8138,6 +8750,10 @@
  "Rhode Island": {
   "en": "Rhode Island",
   "zh": "羅德島州"
+ },
+ "Risk of slow vault performance:": {
+  "en": "Risk of slow vault performance:",
+  "zh": "保管庫可能變慢："
  },
  "Risk-free trial. No charges. No automatic renewal.": {
   "en": "Risk-free trial. No charges. No automatic renewal.",
@@ -8219,6 +8835,10 @@
   "en": "SITES WITH UNIQUE PASSWORDS",
   "zh": "密碼不重複的網站"
  },
+ "SMS Account Recovery": {
+  "en": "SMS Account Recovery",
+  "zh": "簡訊帳戶復原"
+ },
  "SMTP Port": {
   "en": "SMTP Port",
   "zh": "SMTP 連接埠"
@@ -8279,6 +8899,10 @@
   "en": "Saint Lucia",
   "zh": "聖露西亞"
  },
+ "Saint Martin": {
+  "en": "Saint Martin",
+  "zh": "法屬聖馬丁"
+ },
  "Saint Martin (French Part)": {
   "en": "Saint Martin (French Part)",
   "zh": "法屬聖馬丁"
@@ -8311,6 +8935,10 @@
   "en": "Saskatchewan",
   "zh": "薩斯喀徹溫省"
  },
+ "Satellite Provider": {
+  "en": "Satellite Provider",
+  "zh": "衛星供應商"
+ },
  "Saudi Arabia": {
   "en": "Saudi Arabia",
   "zh": "沙烏地阿拉伯"
@@ -8338,6 +8966,10 @@
  "Save the item first to open the attachment.": {
   "en": "Save the item first to open the attachment.",
   "zh": "請先儲存項目再開啟附件。"
+ },
+ "Save time when logging in to your LastPass account by skipping multifactor authentication on devices you trust. Devices you have already trusted are listed below.Trust lasts for 30 days, or select and delete a device to end the trust period now.": {
+  "en": "Save time when logging in to your LastPass account by skipping multifactor authentication on devices you trust. Devices you have already trusted are listed below.Trust lasts for 30 days, or select and delete a device to end the trust period now.",
+  "zh": "在您信任的裝置上略過多重要素驗證，登入 LastPass 帳戶時更省時間。您已信任的裝置列在下方。信任期為 30 天，您也可以選取並刪除裝置，立即結束信任期間。"
  },
  "Save time. Import your passwords from another service.": {
   "en": "Save time. Import your passwords from another service.",
@@ -8398,6 +9030,10 @@
  "Search Unavailable": {
   "en": "Search Unavailable Sites",
   "zh": "搜尋不可用的網站"
+ },
+ "Searches for and removes identical duplicate entries stored in your LastPass vault.": {
+  "en": "Search for and remove duplicate entries in your LastPass vault.",
+  "zh": "搜尋並移除您 LastPass 保管庫中的重複項目。"
  },
  "Secret key": {
   "en": "Secret key",
@@ -8511,6 +9147,10 @@
   "en": "Select All",
   "zh": "全選"
  },
+ "Select all": {
+  "en": "Select all",
+  "zh": "全選"
+ },
  "Select or enter a new folder name": {
   "en": "Select or enter a new folder name",
   "zh": "選取或輸入新的資料夾名稱"
@@ -8534,6 +9174,14 @@
  "Send Verification Email": {
   "en": "Send Verification Email",
   "zh": "傳送驗證電子郵件"
+ },
+ "Send anonymous data about your LastPass journey to help us improve your experience.": {
+  "en": "Send anonymous data about your LastPass journey to help us improve your experience.",
+  "zh": "傳送您使用 LastPass 過程的匿名資料，協助我們改善您的體驗。"
+ },
+ "Send anonymous error reporting and interaction data to improve LastPass.": {
+  "en": "Send anonymous error reporting and interaction data to improve LastPass.",
+  "zh": "傳送匿名錯誤報告和互動資料，以改善 LastPass。"
  },
  "Send anonymous error reporting data to help improve LastPass": {
   "en": "Send anonymous error reporting data to help improve LastPass",
@@ -8614,6 +9262,14 @@
  "Set Initial Password": {
   "en": "Set Initial Password",
   "zh": "設定初始密碼"
+ },
+ "Set LastPass to ask for a valid master password before accessing or using an item.": {
+  "en": "Set LastPass to ask for a valid master password before accessing or using an item.",
+  "zh": "讓 LastPass 在存取或使用項目之前，要求輸入正確的主密碼。"
+ },
+ "Set LastPass to show an \"at-risk\" warning in both the vault and extension when it notices you're using a weak or duplicate password. This helps you proactively protect the security of your accounts by encouraging you to make strong, unique passwords. Security tip: Your LastPass vault itself is never at risk. The at-risk warning covers the passwords you use to access third-party sites and services, not LastPass itself.": {
+  "en": "Set LastPass to show an \"at-risk\" warning in both the vault and extension when it notices you're using a weak or duplicate password. This helps you proactively protect the security of your accounts by encouraging you to make strong, unique passwords. Security tip: Your LastPass vault itself is never at risk. The at-risk warning covers the passwords you use to access third-party sites and services, not LastPass itself.",
+  "zh": "讓 LastPass 在發現您使用弱密碼或重複密碼時，於保管庫和擴充套件中顯示「有風險」警告。這能鼓勵您使用強度高、不重複的密碼，主動保護帳戶安全。安全性提示：您的 LastPass 保管庫本身不會有風險。「有風險」警告指的是您用來登入第三方網站和服務的密碼，而不是 LastPass 本身。"
  },
  "Set a strong & memorable master password": {
   "en": "Set a strong & memorable master password",
@@ -8819,6 +9475,10 @@
   "en": "Show",
   "zh": "顯示"
  },
+ "Show Advanced Settings": {
+  "en": "Show Advanced Settings",
+  "zh": "顯示進階設定"
+ },
  "Show All": {
   "en": "Show All",
   "zh": "全部顯示"
@@ -8887,6 +9547,10 @@
   "en": "Singapore",
   "zh": "新加坡"
  },
+ "Sint Maarten": {
+  "en": "Sint Maarten",
+  "zh": "荷屬聖馬丁"
+ },
  "Site": {
   "en": "Site",
   "zh": "網站"
@@ -8939,6 +9603,10 @@
   "en": "Six Premium%0%0Licenses",
   "zh": "六個進階版%0%0授權"
  },
+ "Skip 30 day expiration for trusted clients.": {
+  "en": "Don't end trust period after 30 days.",
+  "zh": "30 天後不結束信任期間。"
+ },
  "Skip Tour": {
   "en": "Skip Tour",
   "zh": "略過導覽"
@@ -8946,6 +9614,10 @@
  "Skip email verification of unknown devices and locations": {
   "en": "Don't require email verification from unknown devices and locations",
   "zh": "不要求從不明裝置和位置登入時驗證電子郵件"
+ },
+ "Skip email verification of unknown devices and locations.": {
+  "en": "Don't require email verification from unknown devices and locations.",
+  "zh": "不要求從不明裝置和位置登入時驗證電子郵件。"
  },
  "Skip for now": {
   "en": "Skip for now",
@@ -8957,6 +9629,10 @@
  },
  "Slovakia": {
   "en": "Slovakia",
+  "zh": "斯洛伐克"
+ },
+ "Slovakia (slovak Republic)": {
+  "en": "Slovakia (slovak Republic)",
   "zh": "斯洛伐克"
  },
  "Slovenia": {
@@ -9179,6 +9855,10 @@
   "en": "South Georgia and the South Sandwich Islands",
   "zh": "南喬治亞與南三明治群島"
  },
+ "South Sudan": {
+  "en": "South Sudan",
+  "zh": "南蘇丹"
+ },
  "Spain": {
   "en": "Spain",
   "zh": "西班牙"
@@ -9194,6 +9874,14 @@
  "Sri Lanka": {
   "en": "Sri Lanka",
   "zh": "斯里蘭卡"
+ },
+ "St. Helena": {
+  "en": "St. Helena",
+  "zh": "聖赫勒拿"
+ },
+ "St. Pierre and Miquelon": {
+  "en": "St. Pierre and Miquelon",
+  "zh": "聖皮埃與密克隆群島"
  },
  "Start 30-day trial": {
   "en": "Start 30-day trial",
@@ -9363,6 +10051,10 @@
   "en": "Svalbard and Jan Mayen",
   "zh": "斯瓦巴及揚馬延"
  },
+ "Svalbard and Jan Mayen Islands": {
+  "en": "Svalbard and Jan Mayen Islands",
+  "zh": "斯瓦巴及揚馬延"
+ },
  "Swaziland": {
   "en": "Swaziland",
   "zh": "史瓦帝尼"
@@ -9411,6 +10103,10 @@
   "en": "Taiwan",
   "zh": "台灣"
  },
+ "Taiwan; Republic Of China (roc)": {
+  "en": "Taiwan; Republic Of China (roc)",
+  "zh": "台灣"
+ },
  "Tajikistan": {
   "en": "Tajikistan",
   "zh": "塔吉克"
@@ -9426,6 +10122,10 @@
  "Take the tour": {
   "en": "Take the tour",
   "zh": "開始導覽"
+ },
+ "Tanzania United Republic Of": {
+  "en": "Tanzania United Republic Of",
+  "zh": "坦尚尼亞"
  },
  "Tanzania, United Republic Of": {
   "en": "Tanzania, United Republic Of",
@@ -9667,6 +10367,10 @@
   "en": "This legacy folder may include users who aren't in your Families account.",
   "zh": "此舊版資料夾可能包含不在您家庭方案帳戶中的使用者。"
  },
+ "This is a secondary email address that you associate with your LastPass account. It's used as your inbox for LastPass multifactor authentication emails and other security emails from LastPass.": {
+  "en": "This is a secondary email address that you associate with your LastPass account. It's used as your inbox for LastPass multifactor authentication emails and other security emails from LastPass.",
+  "zh": "這是與您 LastPass 帳戶關聯的第二個電子郵件地址，用來接收 LastPass 多重要素驗證郵件和其他安全性郵件。"
+ },
  "This is a shared site. You are not permitted to clone it.": {
   "en": "This is a shared site. You aren't permitted to clone it.",
   "zh": "這是共用網站，您沒有複製它的權限。"
@@ -9682,6 +10386,10 @@
  "This is the language displayed by the LastPass.com website.": {
   "en": "This is the language displayed by the LastPass.com website.",
   "zh": "這是 LastPass.com 網站顯示的語言。"
+ },
+ "This is the reminder hint you set up when you chose your master password. If you forgot your master password, your hint can serve to help you remember what your actual master password is.": {
+  "en": "This is the hint you made together with your master password. It helps you remember your master password.",
+  "zh": "這是您設定主密碼時一併建立的提示，可以幫助您想起主密碼。"
  },
  "This is your last opportunity to switch. Go Premium for unlimited access.": {
   "en": "This is your last opportunity to switch. Go Premium for unlimited access.",
@@ -9763,6 +10471,10 @@
   "en": "Timor-Leste",
   "zh": "東帝汶"
  },
+ "Timor-leste": {
+  "en": "Timor-leste",
+  "zh": "東帝汶"
+ },
  "Tip: Up to 5 users can be invited from outside your organization.": {
   "en": "Tip: Up to 5 users can be invited from outside your organization.",
   "zh": "提示：最多可邀請 5 位組織外的使用者。"
@@ -9842,6 +10554,10 @@
  "To manage items, download the folder first.": {
   "en": "To manage items, download the folder first.",
   "zh": "若要管理項目，請先下載資料夾。"
+ },
+ "To perform this action, please contact your administrator:": {
+  "en": "It looks like you'll need to contact your administrator to finish what you started:",
+  "zh": "您似乎需要聯絡管理員，才能完成剛才的操作："
  },
  "To prevent access to all mobile devices except those checked above, click below.": {
   "en": "To only allow access to listed mobile devices, click below.",
@@ -10135,6 +10851,14 @@
   "en": "United Kingdom",
   "zh": "英國"
  },
+ "United Kingdom (GB)": {
+  "en": "United Kingdom (GB)",
+  "zh": "英國 (GB)"
+ },
+ "United Kingdom (UK)": {
+  "en": "United Kingdom (UK)",
+  "zh": "英國 (UK)"
+ },
  "United Republic Of Tanzania": {
   "en": "United Republic Of Tanzania",
   "zh": "坦尚尼亞聯合共和國"
@@ -10226,6 +10950,10 @@
  "Update Now": {
   "en": "Update Now",
   "zh": "立即更新"
+ },
+ "Update Phone": {
+  "en": "Update Phone",
+  "zh": "更新電話"
  },
  "Update Vault": {
   "en": "Update Vault",
@@ -10375,6 +11103,10 @@
   "en": "Use 802.1X",
   "zh": "使用 802.1X"
  },
+ "Use LastPass Authenticator, biometrics, or a FIDO2-compatible security key (YubiKey) to verify your identity.": {
+  "en": "Use LastPass Authenticator, biometrics, or a FIDO2-compatible security key (YubiKey) to verify your identity.",
+  "zh": "使用 LastPass Authenticator、生物辨識或相容 FIDO2 的安全金鑰 (YubiKey) 驗證您的身分。"
+ },
  "Use LastPass on all computers & mobiles": {
   "en": "Use LastPass on all computers & mobiles",
   "zh": "在所有電腦和行動裝置上使用 LastPass"
@@ -10390,6 +11122,10 @@
  "Use Virtual Keyboard": {
   "en": "Use Virtual Keyboard",
   "zh": "使用虛擬鍵盤"
+ },
+ "Use an older YubiKey device that only supports Yubico OTP. To use a newer YubiKey device, go to LastPass MFA (above).": {
+  "en": "Use an older YubiKey device that only supports Yubico OTP. To use a newer YubiKey device, go to LastPass MFA (above).",
+  "zh": "使用只支援 Yubico OTP 的舊款 YubiKey 裝置。若要使用新款 YubiKey 裝置，請前往上方的 LastPass MFA。"
  },
  "Use only these characters: A-Z, 2-7, =": {
   "en": "Use only these characters: A-Z, 2-7, =",
@@ -10567,6 +11303,10 @@
   "en": "View deleted shared folders",
   "zh": "檢視已刪除的共用資料夾"
  },
+ "View More": {
+  "en": "View More",
+  "zh": "檢視更多"
+ },
  "View Notification": {
   "en": "View Notification",
   "zh": "檢視通知"
@@ -10611,6 +11351,14 @@
   "en": "Virgin Islands (U.S.)",
   "zh": "美屬維京群島"
  },
+ "Virgin Islands (british)": {
+  "en": "Virgin Islands (british)",
+  "zh": "英屬維京群島"
+ },
+ "Virgin Islands (u.s.)": {
+  "en": "Virgin Islands (u.s.)",
+  "zh": "美屬維京群島"
+ },
  "Virginia": {
   "en": "Virginia",
   "zh": "維吉尼亞州"
@@ -10622,6 +11370,10 @@
  "Visit Site": {
   "en": "Visit Site",
   "zh": "造訪網站"
+ },
+ "Vpn / Anonymous Proxy": {
+  "en": "Vpn / Anonymous Proxy",
+  "zh": "VPN / 匿名代理伺服器"
  },
  "Wait Time:": {
   "en": "Wait Time:",
@@ -10638,6 +11390,10 @@
  "Wallis and Futuna": {
   "en": "Wallis and Futuna",
   "zh": "瓦利斯和富圖納"
+ },
+ "Wallis and Futuna Islands": {
+  "en": "Wallis and Futuna Islands",
+  "zh": "瓦利斯和富圖那群島"
  },
  "Warning": {
   "en": "Warning",
@@ -10714,6 +11470,10 @@
  "We failed to share with the following users:": {
   "en": "Something went wrong sharing with these users:",
   "zh": "與這些使用者共用時發生錯誤："
+ },
+ "We gave it a new look to help you navigate your settings easier.": {
+  "en": "We gave it a new look to help you navigate your settings easier.",
+  "zh": "我們換了新外觀，讓您更容易找到各項設定。"
  },
  "We need you password to calculate your score:": {
   "en": "Enter your master password so we can calculate your score:",
@@ -10859,6 +11619,10 @@
   "en": "When changing your master password, you also have to change your reminder.",
   "zh": "變更主密碼時，也必須變更提示。"
  },
+ "When enabled, the idle timer is suppressed. You will remain logged in for the lifetime of your session. The hard session expiry set by your server is still enforced.": {
+  "en": "When enabled, the idle timer is suppressed. You will remain logged in for the lifetime of your session. The hard session expiry set by your server is still enforced.",
+  "zh": "啟用後會停用閒置計時器，您會在整個工作階段期間保持登入。伺服器設定的工作階段絕對到期時間仍然有效。"
+ },
  "When purchasing LastPass from your country you are entering a binding contract with LastPass.": {
   "en": "When purchasing LastPass from your country you are entering a binding contract with LastPass.",
   "zh": "從您的國家/地區購買 LastPass，即表示您與 LastPass 訂立具約束力的合約。"
@@ -10983,6 +11747,14 @@
   "en": "Sorry, but you can't share with that many people. Remove at least 1 and try again.",
   "zh": "抱歉，您無法與這麼多人共用。請至少移除 1 人後再試一次。"
  },
+ "You can change your password reminder when you change your LastPass Master Password.": {
+  "en": "You can change your master password reminder when you change your LastPass master password.",
+  "zh": "變更 LastPass 主密碼時，可以一併變更主密碼提示。"
+ },
+ "You can log in to LastPass without your master password on these devices. To use your master password instead, select a device and disable passwordless.": {
+  "en": "You can log in to LastPass without your master password on these devices. To use your master password instead, select a device and disable passwordless.",
+  "zh": "您可以在這些裝置上不用主密碼登入 LastPass。若要改用主密碼，請選取裝置並停用免密碼登入。"
+ },
  "You can make some above.": {
   "en": "You can make some above.",
   "zh": "您可以在上方建立一些。"
@@ -11074,6 +11846,10 @@
  "You currently have no trusted devices defined.": {
   "en": "You haven't defined any trusted devices yet.",
   "zh": "您尚未設定任何信任的裝置。"
+ },
+ "You currently have no trusted devices.": {
+  "en": "You don't have any trusted devices.",
+  "zh": "您沒有任何信任的裝置。"
  },
  "You did not enter your LastPass master password": {
   "en": "You didn't enter your LastPass master password",
@@ -11226,6 +12002,10 @@
  "You have unsaved changes": {
   "en": "You have unsaved changes",
   "zh": "您有尚未儲存的變更"
+ },
+ "You last changed your LastPass master password on %s.": {
+  "en": "You last changed your LastPass master password on %s.",
+  "zh": "您上次變更 LastPass 主密碼的時間是 %s。"
  },
  "You made the final switch to computer": {
   "en": "You made the final switch to computer",
@@ -11803,6 +12583,10 @@
   "en": "application",
   "zh": "應用程式"
  },
+ "before being sent to LastPass servers.": {
+  "en": "before being sent to LastPass servers.",
+  "zh": "雜湊的次數。"
+ },
  "by": {
   "en": "Set by",
   "zh": "設定者"
@@ -11826,6 +12610,10 @@
  "features used": {
   "en": "features used",
   "zh": "已使用功能"
+ },
+ "for more information.": {
+  "en": "for more information.",
+  "zh": "以取得更多資訊。"
  },
  "goes with you": {
   "en": "goes with you",
@@ -11978,6 +12766,10 @@
  "this folder's items": {
   "en": "this folder's items",
   "zh": "此資料夾的項目"
+ },
+ "this page": {
+  "en": "this page",
+  "zh": "此頁面"
  },
  "trial_admin_outside_company_shares_limit_reached": {
   "en": "User not invited. Up to 5 users can be invited from outside your organization. Upgrade now to invite more people.",
